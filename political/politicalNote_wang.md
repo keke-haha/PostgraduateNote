@@ -333,11 +333,11 @@ philosophy -- 爱和智慧
   
 + **练习题目**
 
-  + ![](/home/jos/Record/PostgraduateNote/political/img/1.png)
+  + ![](img/1.png)
 
     答案：**ABD**
 
-  + ![](/home/jos/Record/PostgraduateNote/political/img/2.png)
+  + ![](img/2.png)
 
     答案：**ABCD**
 
@@ -444,25 +444,25 @@ philosophy -- 爱和智慧
 
 #### 第五节课复习
 
-- ![](/home/jos/Record/PostgraduateNote/political/img/3.png)
+- ![](img/3.png)
 
   答案：**C**
 
-- ![](/home/jos/Record/PostgraduateNote/political/img/4.png)
+- ![](img/4.png)
 
-  ![](/home/jos/Record/PostgraduateNote/political/img/5.png)
+  ![](img/5.png)
 
   答案：**ACD，B是对的但与题干无关。**
 
-- ![](/home/jos/Record/PostgraduateNote/political/img/6.png)
+- ![](img/6.png)
 
   答案：**C**
 
-- ![](/home/jos/Record/PostgraduateNote/political/img/7.png)
+- ![](img/7.png)
 
   答案：**ABD，D选项是树木的生长过程体现波浪式前进、量变到质变的哲理。**
 
-- ![](/home/jos/Record/PostgraduateNote/political/img/8.png)
+- ![](img/8.png)
 
   答案：**ABD，A加入“世贸”组织后中美一定会存在斗争和摩擦，因为“世贸”组织就是调停贸易纠纷的地方**
 
