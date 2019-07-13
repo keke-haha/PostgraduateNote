@@ -56,16 +56,16 @@
           n.                                  物体；客体；目的；宾语  
   be against  
 + abound  vi.                                 大量存在；充满，富于 + with  
-  aboundant a.  
-+ supreb a.                                   极好的，高质量的    company  
-+ firm  n.                                    公司，商行      
+  abundant a.  
++ supreb a.                                   极好的，高质量的  
++ firm  n.                                    公司，商行    company  
         v.                                    变得坚实  
         a.                                    结实的；稳固的    solid  
 + intuitive a.                                有直觉力的  
-  intuituition  
+  intuition  
   tutor  
 + unintentionally ad.                         无意地；非故意地  
-  intend to da   
+  intend to do   
 + approach  v.                                处理；应对  
             n.                                接近；途径；方法    method  
 + scorn n/vt.                                 蔑视；拒绝；不屑    look down upon  
@@ -109,6 +109,7 @@
 + argue vt.                                   认为，主张 + that  
         vi.                                   争吵 + with  
 + diffuse a.                                  分散的，分开的  
+  apart  
 + convincingly  ad.                           令人信服地  
   persuasive  
 + constancy n.                                坚定；坚贞；亘古不变  
