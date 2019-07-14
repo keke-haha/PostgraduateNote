@@ -104,6 +104,7 @@
 + collection  n.                              收藏品；收取；积聚  
   collect  
 + essential a.                                必不可少的；基本的  
+            n.                                要素  
   necessary  
   basis  
 + argue vt.                                   认为，主张 + that  
@@ -175,7 +176,7 @@
             a.                                执行的；有执行力的  
   exe  
 + stereotypical a.                            陈规的，老套的  
-  stereotype  
+  stereotype    n.                            铅版，铅印
   old  
 + polarize  v.                                使两极化  
   polar bear  
@@ -196,7 +197,7 @@
   multi  
   multinational  
   triple  
-+ generate  vt.                               生成，产生  
++ generate  vt.                               生成，产生；导致  
 + provoke v.                                  激起  
   provocative ad.   
   vok => voc  

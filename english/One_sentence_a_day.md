@@ -84,3 +84,37 @@
 
 ---
 
+#### day 3 -- July 14
+
+ 
++ original text  
+  Scientist jumped to the rescue with some distinctly shaky evidence to the effect that insects would
+  eat us up if birds failed to control them.
+
++ cut sentence  
+  Scientists jumped to the rescue with some distinctly shaky evidence to the effect  
+  insects would eat us up if birds failed to control them  
+
++ my translation  
+  科学家根据一些不同方面的证据证实了虫子会把我们都吃掉如果鸟儿没有控制住它们。  
+
++ unknown word
+  + rescue : v. 拯救；营救  
+  + shaky : adj. 不稳固的；摇摇欲坠的；不牢靠的  
+  + distinctly : adv. 明显地；确实地  
+  + jump to : jump to sth. ，译为“立即，匆匆”  
+
++ answer
+
+  + crrent cut  
+    Scientists jumped to the rescue with some distinctly shaky evidence to the effect  
+    insects would eat us up if birds failed to control them  
+
+  + translation  
+    科学家立即拿出一些明显不可靠的证据来救驾，大致是害虫会吃光我们的一切如果鸟儿不能控制住它们的发展
+
++ summary  
+  背单词能需努力小伙子，加油！！！
+
+---
+
