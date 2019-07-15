@@ -49,6 +49,7 @@
   advice  
 + power n.                                    作用；权利；(能)力；电力  
         vt.                                   是开动  
+  electricity n.                              电  
 + toss v./n.                                  扔  
   toss up                                     轻轻抛  
 + logically ad.                               合乎逻辑地；逻辑上地  
@@ -66,6 +67,7 @@
   tutor  
 + unintentionally ad.                         无意地；非故意地  
   intend to do   
+  on purpose
 + approach  v.                                处理；应对  
             n.                                接近；途径；方法    method  
 + scorn n/vt.                                 蔑视；拒绝；不屑    look down upon  
@@ -78,6 +80,7 @@
   commit  
 + randomly  ad.                               自由地，任意地，随便地  
 + frustration n.                              挫折，沮丧  
+  failure  
   frost  
   freeze  
 + untested  a.                                未测试的  
@@ -101,6 +104,7 @@
 + acute a.                                    严重的；激烈的；敏锐的；急性的；尖的  
   strict  
   Ace  
+  sharp  
 + collection  n.                              收藏品；收取；积聚  
   collect  
 + essential a.                                必不可少的；基本的  

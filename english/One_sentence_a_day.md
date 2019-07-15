@@ -118,3 +118,43 @@
 
 ---
 
+
+#### day 4 -- July 15
+
++ original text  
+  In Europe, where forestry is ecologically more advanced, the non-commercial species are recognized 
+  as members of native forest community, to be preserved as such, within reason.
+
++ cut sentence  
+  In Europe  
+  where forestry is ecologically more advanced  
+  the non-commercial species are recognized as members of native forest community  
+  to be preserved as such  
+  within reason  
+
++ my translation  
+  欧洲的森林的生态系统非常的发达，在那里珍稀物种因为被视为天然森林社区的成员而被保护着。
+
++ unknown word
+  + forestry : n. 林业
+  + advanced : adj. 高级的；先进的
+  + non-commerical : adj. 非商业的；非经济的
+  + preserve : v. 保护；维护；保养
+
++ answer
+  
+  + currect cut  
+    In Europe forestry is ecologically more advanced  
+    the non-commercial speices are recognized as members of native forest community  
+    the non-commercial to be preserved as such  
+    within reason  
+
+  + reference translation  
+    欧洲的林业在生态上较为先进，它把没有成为商业化对象的树种视为原始森林群落的成员而适当地加以保护。  
+    因为该句前面讲的是 “forestry” 林业，因此 “speices” 应该翻译成 **树种** 的意思  
+
++ summary  
+
+  翻译要结合前后的意思就行翻译。
+
+---
