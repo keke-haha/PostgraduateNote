@@ -158,3 +158,44 @@
   翻译要结合前后的意思就行翻译。
 
 ---
+
+#### day 5 -- July 16
+
+
++ original text  
+  it ( a system of conservation ) tends to ignore, and thus eventually to eliminate, many elements in the land  
+  community that lack commerical value, but that are essential to its healthy functioning.  
+
++ cut sentence  
+  it is a system of conservation  
+  it tends to ignore, and thus eventually to eliminate many elements in the land community  
+  they are lack commerical value  
+  they are essential to its healthy functioning  
+
++ my translation  
+  一个XX的系统试图去无视且结果最后XX的许多在陆地上没有经济价值的部分，但是这些部分却对这个系统的健康问题起着至关重要的作用。
+
++ unknown word  
+  + conservation : n. 保护；保存
+  + eliminate : v. 消除；消灭；清除
+  + land community : 此句中该译为 “陆地生物群落”
+  + commerical : adj. 有利的；经济有效的
+  + function : n. 功能；作用； v. 活动
+  + health function : 健康运行；此处 ‘function’ 翻译为 ‘活动’ 的意思
+
++ answer
+  
+  + currect cut  
+    it tends to ignore, and thus eventually to eliminate many elements  
+    many elements in the land community that lack commerical value  
+    they are essential to its healthy functioning  
+
+  + reference translation  
+    这一体系容易忽视并最终消灭陆地生物群落中很多缺乏商业价值的物种，然而这些  
+    物种对于整个生物群落的健康运行起着至关重要的作用。  
+
++ summary  
+
+  还要继续多记单词，并且要发挥主观能动性想清楚句子大概讲的是什么，确定好每个句子的主语！！！
+
+---
