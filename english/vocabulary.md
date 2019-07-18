@@ -232,9 +232,7 @@
   + 繁荣和萧条
   + boom  n.  繁荣；轰鸣声
   
-+ generous
-  + a.	慷慨的；宽厚的
-  + generate
++ generous  a.	慷慨的；宽厚的
   
 + instruct 
   + vt.	指示，命令；教育指导
@@ -268,7 +266,7 @@
   
 + collaboratively
   + ad.	合作地，协作地
-  + co-work；labor 劳动、劳工
+  + co-work；cooperative；labor 劳动、劳工
   
 + violence
   + n.	暴力，强暴；猛烈
@@ -287,7 +285,9 @@
   + pursue  v. ；purse n. 钱包
   
 + pioneer
-      + n.	拓荒者，先驱
+  
+  + n.	拓荒者，先驱
+  
   + v.	开拓
   + forerunner（先行者） = fore + runner
   
@@ -375,8 +375,9 @@
 + analyze	vt.	分析，细查
 
 + account
-      + n.	记述，描述；解释；账户
-          + vi.	(+ for)	说明；占……的比例
+  
+  + n.	记述，描述；解释；账户
+  + vi.	(+ for)	说明；占……的比例
   
 + illegally
      + ad.	不合法地
@@ -470,7 +471,7 @@
      
 + lame
   + lame	a.    差劲的，蹩脚的；瘸的
-  + fame	a.    有声望的
+  + famed	a.    有声望的
   
 + be bothered with	受到……的困扰
 
@@ -495,16 +496,13 @@
 + review	n./vt.	回顾；复习
 
 + disguise
-      
-      + vt.   化妆；伪装
-  
+  + vt.   化妆；伪装
   + n.    掩饰
   + guise
   
 + postwar     n. 战后的	ad. (在）战后
 
 + component
-      
   + n.    组成，部件，零件
   
   + a.    组成的
@@ -547,9 +545,7 @@
      + relation
      
 + advocate
-      
-      + n.    拥护者；辩护者
-  
+  + n.    拥护者；辩护者
   + vt.   拥护，提倡
   + support
   
