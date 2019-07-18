@@ -22,7 +22,7 @@
 
 ---
 
-### Part 1
+### Lesson 1
 
 + reflect v.                                  反映；反射；思考 + on  
 + require vt.                                 需要；要求，规定  
@@ -214,4 +214,347 @@
 
 ---
 
-**tips : 下节课提前15分钟**
+### Lesson 2
+
++ beside the point	
+  + 不相关的，不必谈的
+  + unimportant
+  
++ inequity
+  + n. 不公平的
+  + equal  公平的
+  
++ dispute
+  + n.&v.	争论，争辩
+  + argue，conflict
+  
++ boom and bust
+  + 繁荣和萧条
+  + boom  n.  繁荣；轰鸣声
+  
++ generous
+  + a.	慷慨的；宽厚的
+  + generate
+  
++ instruct 
+  + vt.	指示，命令；教育指导
+  + order，education，instruction，construct in head
+  
++ dictate
+  + v.	支配；口授
+  + n.	命令，规定
+  + dictator 独裁者，dictation，dict &rarr; speak
+  
++ obey
+  + v.	服从，遵守，听从
+  + disobey
+  
++ conventionally
+  + ad.	按照惯例地，照常规地
+  + traditionally
+  
++ regard
+  + vt.	看作 + as；打量；注意
+  + n.	尊敬；问候
+  + see as， view as
+  
++ demotivate
+  + v.	使**失去动力**
+  + motivate 促使、激发；motive  n. 动机
+  
++ readiness
+  + n.	准备就绪，愿意
+  + be ready to；be willing to
+  
++ collaboratively
+  + ad.	合作地，协作地
+  + co-work；labor 劳动、劳工
+  
++ violence
+  + n.	暴力，强暴；猛烈
+  + violate
+  
++ consume
+  + v.	消费，消耗
+  + consumption n.；consumer n. 消费者；buy
+  
++ capacity
+  + n.	能力，才能；容量
+  + ability，containment
+  
++ pursuit
+  + n.	追求；追逐；事业
+  + pursue  v. ；purse n. 钱包
+  
++ pioneer
+      + n.	拓荒者，先驱
+  + v.	开拓
+  + forerunner（先行者） = fore + runner
+  
++ worship
+  + n.	崇拜；敬奉
+  + worth（价值；值得），wealth（财富）
+  + 财富	值得	崇拜：Wealth is worth worshipping.
+  
++ nowhere	ad.   任何地方都不
+
++ phony
+    + a.	假的，伪造的
+  + n.	假货，赝品
+  + phone
+  
++ linguist
+  + n.	语言学家
+  + language，bilingual 双语
+  
++ inferior
+  + a.	劣等的；下级的
+  + n.	下级，下属
+  + superior  a.	优越的；优良的
+  
++ infrastructure
+     + n.	基础设施
+     + infra + red = infrared	红外线；infrastructure = infra 下层的 + structure 建设
+     
++ anxiety
+     + n.	焦虑；挂念；渴望
+     + worry
+     
++ counter
+  
+  + n.	柜台；筹码；计算器
+  
+  + vt.	对抗
+  + ad.	对立地
+  + run counter to  与……背道而驰；counter + intuitive = counterntuitive 有悖常理
+  
++ curricula
+  + n.	课程，课程体系；curriculum  复数
+  + courses
+  
++ shrink
+  + v.&n.	收缩，皱缩
+  + shrank（过去式）, shrunk（过去分词）
+  + short + in
+  
++ ideology
+  + n.	意识形态
+  + idea
+  
++ classify
+  + vt.	把……分类，把……分级
+  + garbage classify	垃圾分类
+  
++ rigid
+     + n.	严格的，死板的；僵硬的
+     + strict
+     
++ misconception
+  + n.	误解，错觉
+  + misinterpret ；misunderstanding ；concept
+  
++ inclusive
+     + a.	包容一切
+     + include；inclusiveness  包容性
+     
++ toil
+  + n./v.	辛苦地做
+  + toilet
+  
++ wear off	磨损
+
++ pose
+    + v.	摆姿态，提出
+  + n.	姿势，姿态
+  + posture；pose a threat   形成威胁
+  
++ liberal
+  + a.	自由的；慷慨的
+  + free；generous；liberty n. 自由；liberate  v. 解放；
+  
++ analyze	vt.	分析，细查
+
++ account
+      + n.	记述，描述；解释；账户
+          + vi.	(+ for)	说明；占……的比例
+  
++ illegally
+     + ad.	不合法地
+     + legal
+     
++ proper	a.	合适的；正当的	suitable、appropriate
+
++ lawsuit	n.	诉讼
+
++ ambition	n.	抱负；野心
+
++ endure
+  + v.	持久；忍耐
+  + stand；bear；durex 男人就要持久
+  
++ institutional
+
+     + a.	制度上的，机构的
+     + institution 机构；制度
+
++ cement
+     + v.	加固，加强	reinforce；increase
+     + n.	水泥；胶合剂
+     
++ task	n.    工作，任务	work；mission
+
++ uniform
+  
+  + n.	制服
+  + a.	统一的；一律的
+  
++ capacity
+     + n.	容量；才能，能力；**身份，职位**
+     + what's your capacity?	您是什么身份？
+     
++ loyalty
+  + n.	忠诚
+  + disloyalty；betrayal
+  
++ sharpen	v.	使锋利；使敏捷
+
++ ground
+  + n.	土地；根据（脚踩土地有理有据），充分理由
+  + groundless  无理取闹的
+  
++ insatiable
+  + a.	无法满足的
+  + satisfy
+  
++ underestimate
+  + v.	低估
+  + overestimate	高估；estimate	估计
+  
++ bias
+    + n. 偏见；偏爱	vt. 是有偏见	a.  偏见的
+    + unbiased 不偏不倚的
+    
++ unavoidable	a. 不可避免的	avoidable
+
++ adherence
+  + n.  坚持
+  + adhere	附着；cohere	连贯；inhere	固有，存在	inhere in sth.
+  
++ promote	vt.	宣传，推销；促进，增进
+
++ complexity
+     + n.	复杂，复杂性
+     + complex
+     
++ transform
+     + vt.	改革；变换；把……转换成
+     + change
+     
++ legitimate
+  + a.	合法的
+  + legal
+  
++ survey	n.	调查
+
++ dedicate
+  + v.	奉献，献身于
+  + devote；dedicate to 致力于
+  
++ sensible
+     + a.    明智的，合理的
+     + sense + able = sensible；sense
+     
++ impulsive
+     + a.    推进的；冲动的；浮躁的
+     + push；
+     
++ lame
+  + lame	a.    差劲的，蹩脚的；瘸的
+  + fame	a.    有声望的
+  
++ be bothered with	受到……的困扰
+
++ nuisance	n.    讨厌		hate
+
++ marginalize
+     + v.    边缘化；排斥；忽视
+     + margin 边缘
+     
++ lucrative
+  + a.    有利润的，赚大钱的
+  + profitable 有利可图的，profit
+  
++ impel
+  + v.    推动
+  + impel (sb.) to do sth.    推动(某人)去做某事；impulse；push
+  
++ adjust
+  + vi.   适用
+  + adapt；adapt to，adjust to 适用于
+  
++ review	n./vt.	回顾；复习
+
++ disguise
+      
+      + vt.   化妆；伪装
+  
+  + n.    掩饰
+  + guise
+  
++ postwar     n. 战后的	ad. (在）战后
+
++ component
+      
+  + n.    组成，部件，零件
+  
+  + a.    组成的
+  + compose
+  
++ modest      a.    **适度的**，谦虚的		proper
+
++ on behalf of      代表
+
++ negative    
+  + negative	a.    消极的
+  + positive	 a.    积极的
+  
++ be absorbed into  沉迷于
+
++ review	n./vt.	审查，回顾；复习；评论；检阅
+
++ affectionate
+     + a.  亲切的，充满爱意的
+     + affect	n. 情感	v. 影响；感动
+     
++ mindlessly  ad.   没头脑地，愚蠢地
+
++ exemplify
+     + vt.   举例证明
+     + example + ify
+     
++ erase 
+     + v.    擦除，抹去
+     + eraser    橡皮擦
+     
++ force sb. to do sth.  强迫某人做某事
+
++ inherently  ad.   固有地，天生地
+
++ correlate
+     + vt.   使相互关联
+     + vi.	(to, with) 相关，关联
+     + cor + relate
+     + relation
+     
++ advocate
+      
+      + n.    拥护者；辩护者
+  
+  + vt.   拥护，提倡
+  + support
+  
++ wit         n.    才智；风趣
+
+---
+
+把第一天的单词再看一遍

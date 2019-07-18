@@ -122,7 +122,7 @@
 #### day 4 -- July 15
 
 + original text  
-  In Europe, where forestry is ecologically more advanced, the non-commercial species are recognized 
+  In Europe, where forestry is ecologically more advanced, the non-commercial species are recognized
   as members of native forest community, to be preserved as such, within reason.
 
 + cut sentence  
@@ -163,8 +163,8 @@
 
 
 + original text  
-  it ( a system of conservation ) tends to ignore, and thus eventually to eliminate, many elements in the land  
-  community that lack commerical value, but that are essential to its healthy functioning.  
+  it ( a system of conservation ) tends to ignore, and thus eventually to eliminate, many elements in the land
+  community that lack commerical value, but that are essential to its healthy functioning.
 
 + cut sentence  
   it is a system of conservation  
@@ -197,5 +197,78 @@
 + summary  
 
   还要继续多记单词，并且要发挥主观能动性想清楚句子大概讲的是什么，确定好每个句子的主语！！！
+
+---
+
+#### day 6 -- July 17
+
++ original text  
+  Having endured a painful period of unsustainability in his own life made it clear to him that  
+  sustainability-oriented values must be expressed though everyday action and choice.  
+
++ cut sentence  
+  Having endured a painful period of unsustainability in his own life made it clear to him  
+  sustainability-oriented values must be expressed though everyday action and choice  
+
++ my translation  
+  经过他的生命中一个短暂的痛苦期的折磨使他清晰地认识到持续有用的价值必须通过每天的行为和抉择体现出来
+
++ unknown word
+  + unsustainability : a. 难以承受的；不可持续的
+  + sustainability-oriented values : 可持续发展观
+  + sustainability-oriented : 旨在提高承受力
+  + period : n. 一段时期；年代；阶段
+
++ answer  
+  
+  + currect cut  
+    Having endured a painful period of unsustainability in his own life make it clear that  
+    sustainability-oriented values must be expressed though everyday action and choice  
+
+  + reference translation  
+    在经历过一场难以忍受的痛苦生活后，他清晰地认识到，可持续发展的价值观必须通过日常的行为和抉择体现出来。
+
++ summary  
+  
+  脑中词量太少，要努力背单词；而且要对答案持有怀疑的态度，不能全信答案！  
+
+---
+
+#### day 7 -- July 18
+
++ original text  
+  Chomsky's grammer should show patterns of language change that are independent of the family tree or the pathway
+  tracked through it, whereas Greenbergian universality predicts strong co-dependencies between particular types of
+  word-order relations.  
+
++ cut sentence  
+  Chomsky's grammer should show patterns of language change  
+  patterns are independent of the family tree or the pathway tracked through it  
+  Greenbergian university predicts strong co-dependencies between paticular types of word-order relations  
+
++ my translation  
+  XXX的语法应该显示那些依赖于家族树和经过的路径的语言变化的部分，因此格林XX大学预测特别类型的单词顺序关系之间存在较强的相互依赖
+
++ unknowd point
+  + pattern : n. 模式；样式；范例
+  + family tree : 族谱；系谱；  此句中应翻译为“语言谱系”
+  + the pathway tracked through it : 此句中应翻译为“传承路径” ； track 此句中是“n. 踪迹；足迹”的意思； pathway n. 路径；途径
+  + universality : n. 普遍性准则；一般性准则
+  + word-order : 语序
+
++ answer
+
+  + currect cut  
+    Chomsky's grammer should show patterns of language change  
+    patterns are independent of the family tree or the pathway tracked through it  
+    Greenbergian university predicts strong co-dependencies between paticular types of word-order relations  
+
+  + reference translation  
+    乔姆斯基的语法应该能显示语言的变化模式，这些模式独立于语言谱系或其传承路径，而格林伯格的普遍性准则则语言特殊类型的
+    语种在语序关系方面有着较强的相互依赖关系
+
++ summary  
+
+  翻译首先要把自己认识的词先翻译对，**看清楚再翻译**，如这次翻译中的 “independent” 和 “universality” 都翻译错了!!
 
 ---
