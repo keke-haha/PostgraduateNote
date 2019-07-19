@@ -272,3 +272,42 @@
   翻译首先要把自己认识的词先翻译对，**看清楚再翻译**，如这次翻译中的 “independent” 和 “universality” 都翻译错了!!
 
 ---
+
+#### day 8 -- July 19
+
++ original text  
+  To filter out what is unique from what is shared might enable us to understand how complex cultural behavior
+  arose and what guides it in evolutionary or cognitive terms  
+
++ cut sentence  
+  To filter out what is unique from what is shared might  
+  enable us to understand  
+  how complex cultural behavior arose  
+  what guides it in evolutionary or cognitive terms  
+
++ my translation  
+  区分什么是 unique from 什么是 shared might 可以使我们更好的理解语言行为的复杂性与及是什么引导它们走向
+  evolutionary 或 cognitive terms
+
++ unknown point  
+  + filter out A from B : 把 A 从 B 中删除掉
+  + unique, share : unique adj. 独特的，独一无二的； share adj. 分享，共享； 此句中 unique 译为 “特性”，share 译为 “共性”
+  + arose : v. 出现；发生
+  + evolutionary : adj. 进化的；演变的；发展的
+  + cognitive : adj. 认知的；感知的；
+  + in ... term : 从 ... 的方面来看
+
++ answer  
+
+  + sentence struction  
+    To filter out A from B might enable us to understand C and D.
+
+  + reference translation  
+    把事物的特性从共性中区分出来也许能然我们理解复杂的文化行为的出现与及是什么在发展和认知方面引导着它。
+
++ summary  
+  
+  词汇量和短语积累太少了，而且要学会如何造词，要多做点阅读和翻译。
+
+---
+
