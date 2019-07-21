@@ -1,4 +1,4 @@
-## One sentence a day -- 每天一句长难句
+## One sentence a day -- 每天一句翻译
 
 ---
 
