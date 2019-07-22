@@ -311,3 +311,66 @@
 
 ---
 
+#### day 9 -- July 22
+
++ original text  
+  The coming of age of the postwar baby boom and an entry if women into the male-dominated job market have  
+  limited the opportunities of teenageers who are already questioning the heavy personal sacrifices involved  
+  in climbing Japan's rigid social ladder to good schools and jobs
+
++ cut sentence  
+  + the coming of age of the postwar baby boom and an entry of women into the male-dominated job market
+  + have limited
+  + the opportunities of teenagers
+  + who are already questioning the heavy personal sacrifices involved in climbing Japan's rigid social ladder  
+    to good schools and jobs  
+
++ word
+  + boom : n./v. 兴旺；急速发展  baby boom 婴儿潮
+  + sacrifies : n. 牺牲； vi. 牺牲
+  + rigid : adj. 严格的；僵硬的
+  + ladder : n. 阶梯；途径；梯子
+
++ translation
+  
+  + translation sentences
+    + The coming of age of the postwar baby boom and an entry if women into the male-dominated job market  
+      战后婴儿潮时代的到来与及妇女进入到男性为主导的劳动市场
+    + have limited  
+      限制（完成时）
+    + the opportunities of teenagers
+      青少年人的机会
+    + who are already questioning the heavy personal sacrifices  
+      青年人已经质问这些沉重的个人牺牲
+    + involved in climbing Japan's rigid social ladder to good schools and jobs  
+      包含了为了获得好的学校的学习机会和好的工作岗位而攀爬日本严重僵化的社会阶级
+
+  + my translation  
+    战后婴儿潮时代的到来和女性进入了男性为主导的劳动市场这两者限制了青年人的机会，  
+    这些青年人已经开始控诉他们沉重的个人牺牲，这些牺牲包括他们为了获取好的学校学习  
+    机会和好的工作岗位而不断攀爬日本严重僵化的社会阶级  
+
+  + reference translation
+    战后婴儿潮一代的步入成年以及女性打入男性主导的劳动力市场使得青少年的机会变得  
+    极为有限，他们已经不停地质疑为了通往优秀的学校和获得体面的工作而去不断攀爬日本  
+    国内严苛的社会阶梯所做出的巨大个人牺牲
+
++ homework  
+  With economic growth has come centralization : fully 76 percent of Japan's 119 million citizens live in  
+  cities where community and the extended family have been abandoned in favor of isolated, two-generation  
+  households.
+  
+  + cut sentence
+    + With economic gtowth has come centralization
+    + full 76 percent of Japan's 119 million citizens
+    + live in
+    + cities where community and the extended family have been abandoned in favor of isolated, two-generation  
+      households  
+
+  + my translation
+      随着经济发展的中心化，日本1亿1千9百万国民中有不少于76%的人居住在城市中，这些城市的社区和延伸的家族  
+      已经放弃了孤立的两代人组成家庭的生存方式。
+
+---
+
+

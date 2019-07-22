@@ -279,4 +279,115 @@
 
 ---
 
-+ 
++ social security
++ pointed
++ symbolic
++ cuning
++ decade
++ gratitude
++ precede
++ inherent worth
++ whispered
++ barrier
++ departure
++ routine
++ afford
++ leakage
+  + data leakage
++ deliberately
++ fate
+  + fatal
++ priority
++ be resistant to
++ infest
++ outsize
++ presence
++ sympathy
++ trigger
++ extinction
++ outgrow
++ enhance
+  + promote
++ collaboration
++ decent
++ celebrity
++ straightforward
++ attorney
++ lag behind
++ parachute
+  + paradise
++ institution
++ personality
+  + personnel
++ tolerance
+  + endure, intolerance, tolerate
++ emerging
++ flaw
+  + flawless
++ intellectual property
++ rather than
++ indirectly
++ foresee
+  + foretell, predict, prophet
++ oligation
++ outweigh
++ era
++ dominant
++ wound
++ fantastic
++ novel
++ yield
++ incidence
+  + incident
++ commitment
+  + commit
++ statistical population distribution
++ moral
++ pledge
++ guaranteed
++ thesis
++ intervention
+  + interfere
++ privilege
++ idealize
++ estimate
++ stimulate
++ usher
++ disposable
++ scary
++ feature
++ afloat
++ enrich
++ improvisation
++ cooperate
++ illusory
++ contemplate
++ abuzz
++ rank
++ in a row
++ be tempted to do
++ femininity
++ mean-spirited
++ sufficient
++ unpatentable
++ conclude
++ outmoded
++ dormant
++ casual
++ intensify
++ weird
++ profoundly
++ architectural
++ preliminary
++ instinct
++ undercover
++ sensitive
++ agenda
++ confirm
++ threaten
++ practical
++ originate
++ ultimately
++ switch to
++ correlation
++ irrelevant
