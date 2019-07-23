@@ -363,14 +363,66 @@
   + cut sentence
     + With economic gtowth has come centralization
     + full 76 percent of Japan's 119 million citizens
-    + live in
-    + cities where community and the extended family have been abandoned in favor of isolated, two-generation  
+    + live in cities
+    + where community and the extended family have been abandoned in favor of isolated, two-generation  
       households  
 
   + my translation
-      随着经济发展的中心化，日本1亿1千9百万国民中有不少于76%的人居住在城市中，这些城市的社区和延伸的家族  
-      已经放弃了孤立的两代人组成家庭的生存方式。
+    随着经济发展的中心化，日本1亿1千9百万国民中有不少于76%的人居住在城市中，这些城市的社区和延伸的家族  
+    已经放弃了孤立的两代人组成家庭的生存方式。
+
+  + homework reference translate (update in July 23)  
+    随着经济发展中心化的到来，日本1亿1千9百万国民中有整整( fully )76%的人口居住在城市中，在那些城市中原来的  
+    社区和多代同堂的大家庭(the extended family)已经被摒弃，取而代之(in favor of)的是与外界疏于往来的(isolated)、  
+    只由两代人(two-generation)组成的核心家庭。
 
 ---
 
 
+#### day 10 -- July 23
+
++ original text  
+  Besides, professional training is unlikely to produce the needed number of every kind of professional in a  
+  country as large as ours and where the economy is spread over so many states and involves so many international  
+  corporations.  
+
++ cut sentence
+  + Besides, professional training is unlikely to produce the needed number of every kind of professional in a country  
+    + professional training
+    + is unlikely to produce
+    + the needed number of every kind of professional in a country
+  + as large as ours => as large as our country
+  + and where the economy is spread over so many states and involves so many international corporations
+    + the economy is spread over so many states
+    + ... involves so many international corporations
+
++ unknown word
+  + professional : adj. 专业的, professional training; n. 专业人员
+  + state : 大洲
+  + corporation : n. 公司
+
++ detail
+  + ours : 人称代词，代指“我们的 ... ”，此句中代指 **我们的国家**
+  + professional : 根据所处的位置的不同，分别用作 **形容词** 和 **名词**
+  + involves : 根据 involve 的时态，找出其相**并列的部分**
+  + spread : 不根据时态而改变
+
++ translation
+
+  + translate sentences
+    + Besides, professional training is unlikely to produce the needed number of every kind of professional in a country  
+      另外，在一个国家中，职业训练不大可能按照数量培养出所需的各类专业人员。
+    + as large as ours  
+      和我们的一样大
+    + and where the economy is spread over so many states and involves so many international corporations  
+      经济延展到这么多大洲、涉及这么多的国际公司
+
+  + reference translation
+    另外，在这个和我们祖国一样大的国家里，经济延展到这么多的大洲、涉及到这么多的跨国公司，因此不大可能通过专业培训培养出足够数量  
+    的专业人员
+
++ homework
+  There is, as Robert Rubin, the treasury secretary, says, a "disjunction" between the mass of business anecdote that point
+  to a leap in productivity and the picture reflected by the statistics.
+
+---

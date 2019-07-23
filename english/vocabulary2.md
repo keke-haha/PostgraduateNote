@@ -279,12 +279,18 @@
 
 ---
 
-+ social security
-+ pointed
-+ symbolic
+#### Lesson 4
+
++ social security 社会保障
++ pointed a.  尖锐的；率直的
++ symbolic  a.
 + cuning
-+ decade
+  + a.
+  + runing, sly
++ decade  n.
 + gratitude
+  + n.
+  + thank, grateful
 + precede
 + inherent worth
 + whispered
@@ -391,3 +397,105 @@
 + switch to
 + correlation
 + irrelevant
+
+---
+
+#### Lesson 5
+
++ compliance
++ creep
++ coordination
++ endorse
++ lobby
++ cite
++ benefactor
++ urge aspire
++ discernible
++ irony
++ grace graceful
++ puritan
++ defy
++ kit
++ frame
++ notability
++ confrontation
++ traffic
++ indifferent
++ chronological
++ drastic
++ elite
++ authority
++ stagnation
++ complicated complex
++ withstand
++ suspicion
++ justice
++ scornful
++ refrain + from
++ puffed-out puff
++ wary
++ distribution
++ unremarked
++ delivery
++ launch
++ worn out
++ appreciate
++ random
++ intensely
++ unreliable
++ shoulder
++ elude evade
++ transaction
++ assess
++ fabric fabricate
++ subscribe
++ faint
++ swamp swim
++ release
++ differentiate
++ flexibility rigid
++ insimate
++ insist
++ boot up; reboot
++ ambiguous
++ navigate
++ acknowledge
++ susceptible
++ reckon
++ display
++ subsequent
++ handle
++ slight
++ extract
++ contemptuous
++ filter
++ constrain
++ decade
++ content
++ disadvantage
++ philosophy
++ bare
++ contend
++ alert
++ flee
++ inhabit
++ quirk
++ unaware
++ cruetly cruel
++ database
++ shame
++ in a way
++ exploit explore
++ literate
++ couple
++ parachute
++ encompass
++ vocabulary
++ vanish
++ statistician
++ unbiased
++ disruption
++ slim
++ be prone to
++ imbalance
++ comprehensive
