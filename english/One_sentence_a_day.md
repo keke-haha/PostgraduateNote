@@ -368,10 +368,10 @@
       households  
 
   + my translation
-    随着经济发展的中心化，日本1亿1千9百万国民中有不少于76%的人居住在城市中，这些城市的社区和延伸的家族  
+    随着经济发展的中心化，日本1亿1千9百万国民中有不少于76%的人居住在城市中，这些城市的社区和延伸的家族
     已经放弃了孤立的两代人组成家庭的生存方式。
 
-  + homework reference translate (update in July 23)  
+  + homework reference translate -- update in July 23  
     随着经济发展中心化的到来，日本1亿1千9百万国民中有整整( fully )76%的人口居住在城市中，在那些城市中原来的  
     社区和多代同堂的大家庭(the extended family)已经被摒弃，取而代之(in favor of)的是与外界疏于往来的(isolated)、  
     只由两代人(two-generation)组成的核心家庭。
@@ -424,5 +424,67 @@
 + homework
   There is, as Robert Rubin, the treasury secretary, says, a "disjunction" between the mass of business anecdote that point
   to a leap in productivity and the picture reflected by the statistics.
+
+  + cut sentence
+    + as the treasury secretary Robert Rubin says
+    + There is a "disjunction" between 
+    + the mass of business anecdote that point to a leap in productivity
+    + and the picture reflected by statistics
+
+  + unknown word
+    treasury secretary : 财政部部长； treasury 金库,国库，宝库；secretary 秘书，部长，书记
+    disjunction : n. 分离，脱节
+    mass : n. 团，大量，许多
+    anecdote : n. 趣闻，传闻，轶事
+    leap :  v. 跳跃，飞跃，猛冲，剧增， / n. 跳跃，骤变，剧增
+    
+
+  + my translation
+    如财政部部长罗伯特·罗宾所说：大量的关于工业化飞速发展的商业传言和统计数据形成的图表存在脱节
+
+  + homework reference translation -- update July 24
+    正如财政部长罗伯特·罗宾所说，在大量指向生产力飞跃的商业趣事和统计数字所反映出的情景之间，存在着一种“脱节”。
+
+---
+
+#### Day 11 -- July 24
+
++ original text  
+  Towns like Bournemouth and Eastbourne sprang up to house large "comfortable classes who had retired on their incomes,
+  and who had no relation to the rest of the community except that of drawing dividends and occasionally attending a
+  shareholder's meeting to dictate their orders to the management.
+
++ cut sentence
+  + Towns like Bournemouth and Eastbourne sprang to house large "comfortable" classes
+  + who had retired on their incomes
+  + and who had no relation to the rest of the community
+  + except that of drawing dividends and occasionally attending a shareholder's meeting to dictate their orders to the management.
+
++ unknown word
+  + sprang up : sprang 是 sprang 的过去式; spring up 涌现，喷涌
+  + house : v. 容纳，收容
+  + class : n. 阶级，阶层
+  + dividend : n. 分红
+  + dictate : v. 口授，口述；命令，支配
+  + shareholder : n. 股东
+
++ translation
+
+  + Towns like Bournemouth and Eastbourne sprang to house large "comfortable" classes  
+    像伯恩茅斯和伊斯特本这样城镇的涌现是为了给那些数量很多的“舒适”阶层提供居住的场所
+  + who had retired on their incomes  
+    这些人依赖于其丰厚的收入而并不工作
+  + and who had no relation to the rest of the community
+    跟社会其他阶层毫无瓜葛
+  + except that of drawing dividends and occasionally attending a shareholder's meeting to dictate their orders to the management.  
+    他们除了分红和偶尔参加股东大会，向管理层口授一下自己的命令之外
+
+  + reference translation
+    像伯恩茅斯和伊斯特本这样城镇的涌现是为了给那些数量很多的“舒适”阶层提供居住的场所。这些人依赖于其丰厚的收入而并不工作，
+    他们除了分红和偶尔参加股东大会，向管理层口授一下自己的命令外，跟社会的其他阶层毫无瓜葛。
+
++ homework
+  
+  
 
 ---
