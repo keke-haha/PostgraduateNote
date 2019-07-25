@@ -407,7 +407,10 @@
 + coordination
 + endorse
 + lobby
+  + lobbist
 + cite
+  + citation
+  + quote
 + benefactor
 + urge aspire
 + discernible

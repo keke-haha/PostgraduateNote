@@ -350,7 +350,7 @@
     这些青年人已经开始控诉他们沉重的个人牺牲，这些牺牲包括他们为了获取好的学校学习  
     机会和好的工作岗位而不断攀爬日本严重僵化的社会阶级  
 
-  + reference translation
+  + reference translation  
     战后婴儿潮一代的步入成年以及女性打入男性主导的劳动力市场使得青少年的机会变得  
     极为有限，他们已经不停地质疑为了通往优秀的学校和获得体面的工作而去不断攀爬日本  
     国内严苛的社会阶梯所做出的巨大个人牺牲
@@ -367,7 +367,7 @@
     + where community and the extended family have been abandoned in favor of isolated, two-generation  
       households  
 
-  + my translation
+  + my translation  
     随着经济发展的中心化，日本1亿1千9百万国民中有不少于76%的人居住在城市中，这些城市的社区和延伸的家族
     已经放弃了孤立的两代人组成家庭的生存方式。
 
@@ -417,11 +417,11 @@
     + and where the economy is spread over so many states and involves so many international corporations  
       经济延展到这么多大洲、涉及这么多的国际公司
 
-  + reference translation
+  + reference translation  
     另外，在这个和我们祖国一样大的国家里，经济延展到这么多的大洲、涉及到这么多的跨国公司，因此不大可能通过专业培训培养出足够数量  
     的专业人员
 
-+ homework
++ homework  
   There is, as Robert Rubin, the treasury secretary, says, a "disjunction" between the mass of business anecdote that point
   to a leap in productivity and the picture reflected by the statistics.
 
@@ -431,23 +431,23 @@
     + the mass of business anecdote that point to a leap in productivity
     + and the picture reflected by statistics
 
-  + unknown word
-    treasury secretary : 财政部部长； treasury 金库,国库，宝库；secretary 秘书，部长，书记
-    disjunction : n. 分离，脱节
-    mass : n. 团，大量，许多
-    anecdote : n. 趣闻，传闻，轶事
-    leap :  v. 跳跃，飞跃，猛冲，剧增， / n. 跳跃，骤变，剧增
+  + unknown word  
+    + treasury secretary : 财政部部长； treasury 金库,国库，宝库；secretary 秘书，部长，书记
+    + disjunction : n. 分离，脱节
+    + mass : n. 团，大量，许多
+    + anecdote : n. 趣闻，传闻，轶事
+    + leap :  v. 跳跃，飞跃，猛冲，剧增， / n. 跳跃，骤变，剧增
     
 
-  + my translation
+  + my translation  
     如财政部部长罗伯特·罗宾所说：大量的关于工业化飞速发展的商业传言和统计数据形成的图表存在脱节
 
-  + homework reference translation -- update July 24
+  + homework reference translation -- update July 24  
     正如财政部长罗伯特·罗宾所说，在大量指向生产力飞跃的商业趣事和统计数字所反映出的情景之间，存在着一种“脱节”。
 
 ---
 
-#### Day 11 -- July 24
+#### day 11 -- July 24
 
 + original text  
   Towns like Bournemouth and Eastbourne sprang up to house large "comfortable classes who had retired on their incomes,
@@ -474,17 +474,76 @@
     像伯恩茅斯和伊斯特本这样城镇的涌现是为了给那些数量很多的“舒适”阶层提供居住的场所
   + who had retired on their incomes  
     这些人依赖于其丰厚的收入而并不工作
-  + and who had no relation to the rest of the community
+  + and who had no relation to the rest of the community  
     跟社会其他阶层毫无瓜葛
   + except that of drawing dividends and occasionally attending a shareholder's meeting to dictate their orders to the management.  
     他们除了分红和偶尔参加股东大会，向管理层口授一下自己的命令之外
 
-  + reference translation
+  + reference translation  
     像伯恩茅斯和伊斯特本这样城镇的涌现是为了给那些数量很多的“舒适”阶层提供居住的场所。这些人依赖于其丰厚的收入而并不工作，
     他们除了分红和偶尔参加股东大会，向管理层口授一下自己的命令外，跟社会的其他阶层毫无瓜葛。
 
-+ homework
++ homework  
+  The challenge we both faces is to avoid forcing people to make a hard choice between a system at one extreme
+  which provides equality but would perpetuate poverty and one at the other extreme which provides prosperity but
+  would ignore poverty.
+
+  + cut sentence
+    + The challenge we both faces
+    + is to avoid forcing people to make a hard choice
+    + between a system at once extreme which provides equlity but would perpetuate poverty
+    + and one at the other extreme which provides prosperity but would ignore poverty.
+
+  + unknown word
+    + perpetuate : vt. 使永存;使不朽，使不灭;保持;使...长久/持续  
+      perpetual adj. 永恒的;不朽的
+    + poverty : n. 贫穷;缺乏，不足;贫瘠，不毛;低劣;
   
-  
+  + my translation  
+    现在我们共同面对的问题是避免人们在这个问题上不得不做出艰难的抉择，是选择社会上人与人之间的极其平等但却一直贫穷，还是
+    选择让社会繁荣但却无视穷苦人民。
+
+  + homework reference translation -- update July 25  
+    我们所面临的共同挑战是避免强迫人民在两个极端之间做出困难的选择：一种制度实现了平等，但是一直贫穷；另一种制度
+    带来了繁荣，却无视了贫苦人民
 
 ---
+
+#### day 12 -- July 25
+
++ original text  
+
+  At the same time, the American Law Institute – a group of judges, lawyers, and academics whose recommendations
+  carry substantial weight – issued new guidelines for tort law stating that companies need not warn customers
+  of obvious dangers or bombard them with a lengthy list of possible ones.
+
++ cut sentence
+  + At the same time, the American Law Institute
+  + - a group of judges, lawyers, and academics hose recommendations carry substantial weight -
+  + issued new guidelines for tort law
+  + stating that companies need not warn customers of obvious dangers or bombard them with a lengthy list of possible ones.
+
++ unknown word
+  + academics : n. 学者
+  + substantial : adj. 大量的;结实的，牢固的;重大的;
+  + tort law : 侵犯法
+  + lengthy : adj. 冗长的
+
++ detail
+  + - ... - : 之间一般插入 定状语
+  + bombar : n. 轰炸； 此句中应翻译成 “大量信息轰炸，提供过多信息”
+  + carry substantial weight : 很权威
+  + or 和 and : 否定句中的并列要用 or ； 肯定句中的并列要用 and
+
++ reference translation  
+  与此同时，美国法律研究所——由一群法官、律师和理论专家组成，他们的建议很有权威性——发布了新的民事侵权法令指导方针，
+  宣称公司不必提醒顾客主义显而易见的危险，也不必连篇累牍地一再提醒他们注意些可能出现的危险。
+
++ homework  
+  
+  One of the important purposes of the management proposal is to assure the customer that the workwill be done
+  by competent personnel during every stage, from prototype design study through manufacturing if the proposal
+  is for “hardware”, or from initial exploratory study to final solutions if the proposal is for “software”.
+
+---
+
