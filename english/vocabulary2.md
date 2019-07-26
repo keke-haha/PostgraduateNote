@@ -36,12 +36,15 @@
 + prescription
   + n.  药方；指示
   + prescribe, describe, subscription
-+ be to blame for(对 ... 负责) = be responsible for 
-+ be exposed to(接触，面临) = suffer
++ be to blame for
+  + 对 ... 负责,  be responsible for 
++ be exposed to
+  + 接触，面临, suffer
 + vague
   + a.  不清楚的；模糊的
   + unclear
-+ obstacle n. 阻碍物
++ obstacle
+  + n. 阻碍物
 + contribution
   + n.  贡献
   + make contribution to
@@ -54,11 +57,13 @@
 + dumb
   + a.  愚蠢的；哑巴的
   + dumb bell, stupid
-+ poisonous a.  有毒的
++ poisonous
+  + a.  有毒的
 + gloominess
   + n.  沮丧
   + gloom, depression
-+ a big deal(重要的事) = an important thing
++ a big deal
+  + 重要的事, an important thing
 + literate
   + n.  文化人；博学的人
   + cultual person; illiterate
@@ -84,7 +89,8 @@
   + v.  怀孕；构想
   + receive, conceive, preceive, deceive
   + Receive girlfriend's message, she has conceived, make me preceive deceive
-+ monopoly n. ( + on) 垄断
++ monopoly
+  + n. ( + on) 垄断
 + category
   + n.  种类；类别；范畴
   + kind, species
@@ -92,8 +98,10 @@
   + n.  同龄人；同等地位的人；贵族
   + vi. 仔细看
   + pair
-+ identity n. 身份；个性；同一性
-+ brand n.  商标；品牌
++ identity
+  + n. 身份；个性；同一性
++ brand
+  + n.  商标；品牌
 + affair
   + n.  事情；事务
   + thing; have a affair with
@@ -118,7 +126,8 @@
 + exception
   + n.  例外
   + except, exceptional = outstanding
-+ layout n. 布局；安排；设计
++ layout
+  + n. 布局；安排；设计
 + evade
   + v.  逃避；规避；躲避
   + avoid，dodge
@@ -126,13 +135,17 @@
 + detect
   + vt. 发现；察觉
   + detective, find
-+ threat n. 威胁；恐吓；凶兆
++ threat
+  + n. 威胁；恐吓；凶兆
 + vigorously
   + ad. 大力地；用力地；元气满满地
   + energetic, vigor
-+ remove vt.  移开；脱下；去掉；开除
-+ appeal to(吸引) = attract
-+ collection n. 收藏品
++ remove
+  + vt.  移开；脱下；去掉；开除
++ appeal to
+  + 吸引, attract
++ collection
+  + n. 收藏品
 + origin
   + n.  起源；来源；起因；血统
   + beginning, start
@@ -193,11 +206,13 @@
 + correspond
   + vi. 相符合(+ with)；相类似(+ to)；通信
   + respond
-+ make ends meet  收支相抵
++ make ends meet
+  + 收支相抵
 + prosperity
   + n.  繁荣；兴旺
   + prosper, boom, thrive
-+ statistic n.  统计学；统计
++ statistic
+  + n.  统计学；统计
 + plausible
   + a.  貌似可信的；似乎正确的
   + believable, implausible, applause
@@ -213,21 +228,27 @@
 + subsidy
   + n.  津贴；补贴
   + allowance，subsidize
-+ conflict  斗争；争吵；冲突
++ conflict
+  + 斗争；争吵；冲突
 + impose
   + vt. 强加于(+ on)；征(税等)
   + impose tax on ...，expose，propose
-+ retreat n.  隐居处；撤退
++ retreat
+  + n.  隐居处；撤退
 + overdue
   + a.  过期的
   + due
-+ responsible 负有责任的；承担责任的
-+ adolescence n.  青春期  youth
++ responsible
+  + adj. 负有责任的；承担责任的
++ adolescence
+  + n.  青春期,  youth
 + standard
   + n.  标准；规格
   + a.  标准的
-+ meaningless a.  无意义的；无意的
-+ proxy n.  代理人；代理权；取代物
++ meaningless
+  + a.  无意义的；无意的
++ proxy
+  + n.  代理人；代理权；取代物
 + distinction
   + n.  区别；荣誉；特质
   + distinguish, different
@@ -255,7 +276,8 @@
 + route
   + n.  路线
   + road
-+ elite a.  精英的
++ elite
+  + a.  精英的
 + collapse
   + vi. 折叠；倒塌；崩溃
   + n.  倒台
@@ -281,13 +303,17 @@
 
 #### Lesson 4
 
-+ social security 社会保障
-+ pointed a.  尖锐的；率直的
-+ symbolic  a.
++ social security
+  + 社会保障
++ pointed
+  + a.  尖锐的；率直的
++ symbolic
+  + a.
 + cuning
   + a.
   + runing, sly
-+ decade  n.
++ decade
+  + n.
 + gratitude
   + n.
   + thank, grateful
@@ -415,7 +441,8 @@
 + urge aspire
 + discernible
 + irony
-+ grace graceful
++ grace
+  + graceful
 + puritan
 + defy
 + kit
@@ -429,13 +456,15 @@
 + elite
 + authority
 + stagnation
-+ complicated complex
++ complicated
+  + complex
 + withstand
 + suspicion
 + justice
 + scornful
 + refrain + from
-+ puffed-out puff
++ puffed-out
+  + puff
 + wary
 + distribution
 + unremarked
@@ -450,16 +479,20 @@
 + elude evade
 + transaction
 + assess
-+ fabric fabricate
++ fabric
+  + fabricate
 + subscribe
 + faint
-+ swamp swim
++ swamp
+  + swim
 + release
 + differentiate
-+ flexibility rigid
-+ insimate
++ flexibility
+  + rigid
++ intimate
 + insist
-+ boot up; reboot
++ boot up
+  + reboot
 + ambiguous
 + navigate
 + acknowledge
@@ -488,7 +521,8 @@
 + database
 + shame
 + in a way
-+ exploit explore
++ exploit
+  + explore
 + literate
 + couple
 + parachute
@@ -502,3 +536,6 @@
 + be prone to
 + imbalance
 + comprehensive
+
+---
+

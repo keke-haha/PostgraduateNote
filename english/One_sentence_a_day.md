@@ -541,9 +541,54 @@
 
 + homework  
   
-  One of the important purposes of the management proposal is to assure the customer that the workwill be done
+  One of the important purposes of the management proposal is to assure the customer that the work will be done
   by competent personnel during every stage, from prototype design study through manufacturing if the proposal
   is for “hardware”, or from initial exploratory study to final solutions if the proposal is for “software”.
 
+  + cut sentence
+    + One of the important purposes of the management proposal
+    + is to assure the customer
+    + that the work will be done by the competent personnel during every stage
+    + from prototype design study through manufacturing if the proposal is for "hardware"
+    + or from initial exploratory study to final solutions if the proposal is for "software"
+
+  + unknown word
+    + competent : adj. 有能力的，能胜任的;能干的，称职的;足够的，充足的;有决定权的;
+    + proposal : n. 提议;建议;求婚;〈美〉投标;
+    + prototype : n. 原型，雏形，蓝本;
+    + manufacturing : n. 制造业，工业;
+    + stage : n. 阶段;舞台;戏剧;驿站;
+
+  + my homework translation  
+    确保顾客的每个阶段的任务被能够胜任工作的职员按时按完成是管理投标中重要的准则之一，在管理的硬件方面做到
+    从蓝本设计的研究到最后的工业生产，在管理的软件方面做到从开始的探索研究到最后的解决问题。
+  
+  + homework reference translation -- update July 26
+    管理建议的重要目标之一是让客户相信该项工作在每个阶段都将由能胜任的人员来完成，这就是说，如果是“硬件”项目，
+    就要从原型设计研究到整个制造工艺；如果说是“软件”项目，则要从出事的探索性研究到最终的解决方案费。
+
 ---
 
+#### day 13 -- July 26
+
++ original text  
+  Thus, in the American economic system it is the demand of individual consumers, coupled with the desire of
+  business to maximize profit and the desire of individuals to maxinize their incomes, that together determine
+  what shall be produced and how resources are used to produce it.
+
++ cut sentence
+  + Thus, in the American economic system
+  + it is the demand of individual consumers, coupled with the desire of business to maximize profit and the desire of individuals to maxinize their incomes
+  + that together determine what shall be produced and how resources are used to produce it
+
++ unknown word
+  + individual : adj. 个人的;独特的;个别的; n. 个人;个体;
+
++ detail
+  + it is ... that ... : 强调句型
+  + do / did / does + v. : 强调动作
+  + couple with : 和，作连词
+
++ reference translation  
+  因此，在美国的经济体系中，个体消费这的需求与商人试图最大化其利益的欲望和个人试图最大化其收入的欲望相结合，共同
+  决定了什么应该被制造，以及如何利用资源来制造他们。

@@ -23,7 +23,7 @@
 
 ---
 
-### Lesson 1
+#### Lesson 1
 
 + reflect v.                                  反映；反射；思考 + on  
 + require vt.                                 需要；要求，规定  
@@ -233,7 +233,8 @@
   + 繁荣和萧条
   + boom  n.  繁荣；轰鸣声
   
-+ generous  a.	慷慨的；宽厚的
++ generous
+  + a.	慷慨的；宽厚的
   
 + instruct 
   + vt.	指示，命令；教育指导
@@ -297,7 +298,8 @@
   + worth（价值；值得），wealth（财富）
   + 财富	值得	崇拜：Wealth is worth worshipping.
   
-+ nowhere	ad.   任何地方都不
++ nowhere
+  + 	ad.   任何地方都不
 
 + phony
     + a.	假的，伪造的
@@ -362,7 +364,8 @@
   + n./v.	辛苦地做
   + toilet
   
-+ wear off	磨损
++ wear off
+  + 	磨损
 
 + pose
     + v.	摆姿态，提出
@@ -373,7 +376,8 @@
   + a.	自由的；慷慨的
   + free；generous；liberty n. 自由；liberate  v. 解放；
   
-+ analyze	vt.	分析，细查
++ analyze
+  + 	vt.	分析，细查
 
 + account
   
@@ -384,11 +388,14 @@
      + ad.	不合法地
      + legal
      
-+ proper	a.	合适的；正当的	suitable、appropriate
++ proper
+  + 	a.	合适的；正当的	suitable、appropriate
 
-+ lawsuit	n.	诉讼
++ lawsuit
+  + 	n.	诉讼
 
-+ ambition	n.	抱负；野心
++ ambition
+  + 	n.	抱负；野心
 
 + endure
   + v.	持久；忍耐
@@ -403,7 +410,8 @@
      + v.	加固，加强	reinforce；increase
      + n.	水泥；胶合剂
      
-+ task	n.    工作，任务	work；mission
++ task
+  + 	n.    工作，任务	work；mission
 
 + uniform
   
@@ -418,7 +426,8 @@
   + n.	忠诚
   + disloyalty；betrayal
   
-+ sharpen	v.	使锋利；使敏捷
++ sharpen
+  + 	v.	使锋利；使敏捷
 
 + ground
   + n.	土地；根据（脚踩土地有理有据），充分理由
@@ -436,13 +445,15 @@
     + n. 偏见；偏爱	vt. 是有偏见	a.  偏见的
     + unbiased 不偏不倚的
     
-+ unavoidable	a. 不可避免的	avoidable
++ unavoidable
+  + 	a. 不可避免的	avoidable
 
 + adherence
   + n.  坚持
   + adhere	附着；cohere	连贯；inhere	固有，存在	inhere in sth.
   
-+ promote	vt.	宣传，推销；促进，增进
++ promote
+  + 	vt.	宣传，推销；促进，增进
 
 + complexity
      + n.	复杂，复杂性
@@ -456,7 +467,8 @@
   + a.	合法的
   + legal
   
-+ survey	n.	调查
++ survey
+  + 	n.	调查
 
 + dedicate
   + v.	奉献，献身于
@@ -474,9 +486,11 @@
   + lame	a.    差劲的，蹩脚的；瘸的
   + famed	a.    有声望的
   
-+ be bothered with	受到……的困扰
++ be bothered with
+  + 	受到……的困扰
 
-+ nuisance	n.    讨厌		hate
++ nuisance
+  + 	n.    讨厌		hate
 
 + marginalize
      + v.    边缘化；排斥；忽视
@@ -494,14 +508,16 @@
   + vi.   适用
   + adapt；adapt to，adjust to 适用于
   
-+ review	n./vt.	回顾；复习
++ review
+  + 	n./vt.	回顾；复习
 
 + disguise
   + vt.   化妆；伪装
   + n.    掩饰
   + guise
   
-+ postwar     n. 战后的	ad. (在）战后
++ postwar
+  +     n. 战后的	ad. (在）战后
 
 + component
   + n.    组成，部件，零件
@@ -509,23 +525,28 @@
   + a.    组成的
   + compose
   
-+ modest      a.    **适度的**，谦虚的		proper
++ modest
+  +      a.    **适度的**，谦虚的		proper
 
-+ on behalf of      代表
++ on behalf of
+  +       代表
 
 + negative    
   + negative	a.    消极的
   + positive	 a.    积极的
   
-+ be absorbed into  沉迷于
++ be absorbed into
+  +  沉迷于
 
-+ review	n./vt.	审查，回顾；复习；评论；检阅
++ review
+  + 	n./vt.	审查，回顾；复习；评论；检阅
 
 + affectionate
      + a.  亲切的，充满爱意的
      + affect	n. 情感	v. 影响；感动
      
-+ mindlessly  ad.   没头脑地，愚蠢地
++ mindlessly
+  +  ad.   没头脑地，愚蠢地
 
 + exemplify
      + vt.   举例证明
@@ -535,9 +556,11 @@
      + v.    擦除，抹去
      + eraser    橡皮擦
      
-+ force sb. to do sth.  强迫某人做某事
++ force sb. to do sth.
+  +  强迫某人做某事
 
-+ inherently  ad.   固有地，天生地
++ inherently
+  +  ad.   固有地，天生地
 
 + correlate
      + vt.   使相互关联
@@ -550,7 +573,8 @@
   + vt.   拥护，提倡
   + support
   
-+ wit         n.    才智；风趣
++ wit
+  +         n.    才智；风趣
 
 ---
 
