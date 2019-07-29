@@ -539,3 +539,215 @@
 
 ---
 
+#### Lesson 6
+
++ nutrient
+  + nutrition
++ perpetuate
+  + permanent
+  + pertutal
++ stem + from
+  + original
++ sentiment
+  + sense
++ enormous
+  + e + normous
++ illiquid
+  + il + liquid
++ passionate
++ essential
+  + necessary, basic
++ majestic
+  + Majesty, majesty
++ chronic
++ widespread
+  + wide + spread
++ democratize
+  + democracy
++ extension
+  + extend
++ elaborate
+  + collaborate
++ deny
++ mention
+  + mind, refer to == mention
++ encourage
+  + discourage
++ tendency
+  + tend
++ steep
+  + sheer
++ capture
+  + catch
++ adjust
+  + adapt
++ overweigh
+  + outweigh
++ specific
+  + specify
++ retrospection
+  + retro = back, spect = see
++ internal
+  + external
++ accompany
+  + company n. 陪伴；公司
++ volume
++ prudent
+  + imprudent, cautious, very careful
++ contradict
+  + contra = 反, dict = 说
++ desirable
+  + desire
++ witness
++ fulfill
+  + achieve, full + fill
++ immigration
+  + emigrate, migrate
++ stake
++ regulate
+  + control, manage
++ considerable
+  + big, considerate
++ kick off
++ sustainable
+  + sustainable development
++ giant
+  + huge, big
++ stamina
+  + endurance
++ rectify
++ fondness
+  + be fond of
++ critique
+  + criticize
++ scrutiny
+  + scrutinize
++ augment
+  + increase
+  + argument
++ patent
+  + unpatentable
++ connotation
+  + denotation, notation
++ concerning
+  + concern
++ deride
+  + laugh at, ridiculous
++ frank
++ accusation
+  + accuse, lawsuit
++ submit
+  + send in
+  + yield to, give up, 屈服
++ oversee
+  + supervise
++ asset
+  + assess asset
++ aspect
++ inherit
+  + in her it, inhere
++ favorable
+  + favorable = support, good, favorable 不是“最喜爱的”, favorite 才是
++ explore
+  + exploit
++ extinction
+  + extinct, die out
++ resistant
++ widow
+  + widower
++ be inspired by
+  + inspire = simulate, spirit
++ prehistoric
+  + pre historic
++ wait and see
++ hostage
++ objective
+  + object, aim
++ block
+  + barrior, obstacle
++ figure out
+  + understand
++ sharp
++ skeptical
+  + kept, skeptic
++ obsess
+  + be obsessed with = be bothered with
++ rocket
+  + augment, skyrocket
++ lounge
+  + VIP lobby
++ foresight
+  + foresee, predict
++ peer
+  + pair, peerless
++ motivate
+  + demotivate, inspire, simulate
++ circumstance
+  + circum = circle, stance = stand
++ admirable
+  + admire
++ wrongdoing
+  + bad thing, immoral thing
++ delicate
+  + vulnerable
++ chaotic
+  + chaos, disturb, turbulent
++ element
++ beaming
+  + smiling
++ gallery
++ rhetoric
+  rhetorical
++ contemptible
+  + scornful, contempt, contemptuous
++ celebrity
+  + famous people, fame
++ caregiver
+  + care giver
++ swallow
++ temporary
+  + temp
++ device
++ quality
+  + quantity
++ recovery
++ fantasize
+  + fantasy, fantastic
++ groundless
+  + ground
++ spell
+  + 拼写, induce, a spell of
++ mispredict
++ fall victim of
+  + victor 胜利者, victim 牺牲者
++ take into account
+  + take ... into account/consideration
++ defer
+  + obey, delay
++ intervene
+  + intervention, interfere
++ hawk
+  + 谐音“好客”, 叫卖、兜售
++ redundancy
+  + redundant, abundant, spare
++ reap
+  + get, acquire, obtain
++ aspiring
+  + inspire, ambition, ambitious
++ discourage
+  + encourage
++ assure
++ wonder
+  + wonderful, curious
++ perception
+  + perceive
++ accuracy
+  + precise
++ manufacturing
+  + factory
++ innocence
+  + innocent, in no cent
++ charitable
+  + charity
++ notion
+  + idea, conception

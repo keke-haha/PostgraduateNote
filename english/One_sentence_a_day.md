@@ -592,3 +592,68 @@
 + reference translation  
   因此，在美国的经济体系中，个体消费这的需求与商人试图最大化其利益的欲望和个人试图最大化其收入的欲望相结合，共同
   决定了什么应该被制造，以及如何利用资源来制造他们。
+
++ homework
+  
+  I suggest transforming our social system form a bureaucratically managed industrialism in which maximal
+  production and consumption are ends in themselves ( in the Soviet Union as well as in the capitalist countries )
+  into a humanist industrialism in which man and the full development of his potentialities - those of love and
+  of reason - are the aims of all social arrangements.
+
+  + unknown word
+    + bureaucratically
+    + capitalist : n. 资本家;资本主义者;<口>有钱人，财主;
+    + potentialities : n. 可能力，潜能，潜力。可能性;潜势力;
+
+  + cut sentence
+    + I suggest transforming our social system form ... into
+    + a bureaucratically managed industrialism
+    + in which maximal production and consumption are ends in themselves
+    + ( in the Soviet Union as well as in the capitalist countries )
+    + a humanist industrialism
+    + in which man and the full development of his potentialities  are the aims of all social arrangements.
+    + - those of love and of reason -
+
+  + homework translation  
+    我建议将我们的社会体系从那种大量的自产自销的官僚计划生产主义(像苏维埃联盟和资本主义国家)转变成为将人和人在爱情等
+    各个方面的潜力全面发展作为全社会布局目标的人文工业生产主义。
+
+  + homework reference translation -- update July 29  
+    我建议改造我们的社会制度，将其从一种在官僚机构管理下的以追求最高产量和最大消费为目的的工业化社会体质
+    （在苏联是这样，在资本主义国家也是这样）转变成为一种人本主义的工业化社会体质，在这样一种体制中，一切
+    社会活动的出发点都是为了人，为了使人的各种潜能——爱及思考的潜能——获得充分的发展。
+
+---
+
+#### day 14 -- July 29
+
++ original text  
+  
+  Behaviorists suggest that the child who is raised in an environment where there are many stmuli which develop
+  his or her capacity for appropriate respones will experience greater intellectual development.
+
++ cut sentence
+  + Behaviorists suggest that
+  + the child ... will experience greater intellectual development
+  + the child who is raised in an environment
+  + an environment where there are many stimuli
+  + many stimuli which develop his or her capacity for appropriate responses
+
++ detail
+  + be raised : 被抚养大
+  + 状语从句翻译法:
+    + 引子: Supporters of the "nature" theroy insist that we are born with a certain capacity for learning
+            that is biologically determined
+    + 前置法:“天性”理论的支持者坚持认为，我们天生就具有某种由生物因素决定的学习能力。
+    + 后置法:“天性”理论的支持者坚持认为，我们天生就具有某种学习能力，这种能力由生物因素决定的。
+
++ reference translation  
+  行动主义者认为，一个儿童在有许多刺激物的环境中成长，而这些刺激物能够发展其做出适应反映的能力，那么这个
+  儿童将会有更高的智力发展。
+
++ homework  
+  
+  The method of scientific investigation is nothing but the expression of necessary mode of working of the human
+  mind; it is simply the mode by which all phenomena are reasoned about and given precise and exact explanation.
+
+

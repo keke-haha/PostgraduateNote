@@ -110,12 +110,13 @@ implicit
 
 ---
 
-### 2005 -- text2
+### 2005 text2
 
 + inconlusive in-否定 adj. 不确定的
   + conclude  v. 做结论
   + conclusion  n.  结论
   + conclusive  adj.  具有结论性的，确定的
+  + uncertain
 
 + nonsense  non--否定   n.  胡说，废话
   + make sense  有意义
@@ -128,6 +129,118 @@ implicit
 + parallel  “ll”  n. 平形线 / adj. 与...平行的 / v. 与...平行
   + para- 相似，相同
 
-j enlisted v. 入伍，参军，征募，(谋求) 帮助 / 支持
++ enlisted v. 入伍，参军，征募，(谋求) 帮助 / 支持
   + en- 使动，强调
   + enrich, enlarge, enrage
+
++ initiative  adj. 原始的, 最初的 / n. 主动精神
+  + - tive  a./n.
+  + - it - 走入
+  + legislative initiative  法律上的行动
+
++ fashion n. 时尚 / v.  制定, 订制
+
++ incentive   n. 奖励 -- stimulus
+  + cent 钱, 一分钱
+  
++ sound   v. 听 / n. 声音 / adj. 健康的, 合理的
+  + environmentally sound 环保的
+
++ correlation   n. 相互关系
+  + com = con = cor = col = co 共同. 一起, 强调
+
++ hinder    v. 阻拦, 阻碍
+  + hind 后面
+  + behind 后面   be- 强调
+
++ prudent   ant / ent   adj.  小心的, 谨慎的
+  + p + rude  不粗鲁的
+  + rude 粗鲁的
+  + careful, cautious
+
++ extensive adj. 广泛的
+  + intensive adj. 加强的
+  + ex-  出, 外面, in-  里, 进入
+  + extend v. 延伸, 拓展
+  + intend v. 倾向于, 纵深
+
++ power plants 发电站
+  + plant n. 植物 / n. 工厂
+
++ conservation    n. 保留，保守，保护
+  + preserve, reserve, conserve
+
++ negligence n.   忽视
+  + -ance/ence    名词后缀
+  + neglet  v.    忽视  neg- 否定 lect- 说
+
++ lesson n. 课  n. 教训. 教育
+
++ aggravate n.    加重, 恶化
+  + ag- 强调
+  + grav 重  gravity
+
+---
+
+### 2005 text3
+
++ suspend v.    悬挂, 静止, 停止
+  + pend 悬挂
+  + sus -- sub -- suc -- sup 下面
+
++ formulate v. 形成
+  + form n. 形式. 样式 / v. 形成
+
++ disguise v. 伪装
+  + dis-否定
+  + guise n. 伪装
+
++ unconscious adj. 无意识的
+  + conscious adj. 有意识的
+  + subconscious adj. 潜意识的
+
++ neurologist n. 神经学家
+  + -ology / -ics 学科后缀
+  + -ist 人, 学家
+  + neuro - nerve 神经 -- nervous 紧张的
+
++ byproduct n.    副产品
+  + by- 旁边, 次要    bypass v. 绕道, 迂回前行 / n. 小路
+
++ harness n. 马具 / v. 控制
+  + -ness 名词后缀
+  + har -- horse 马
+
++ recurring -> recur v. 重新出现
+
++ panic adj. 恐惧的
+
++ terrorism n. 恐怖主义
+  + -ism 名词后缀   -总称 / 理论 / 主义
+  + terrorist n. 恐怖分子
+  + terrify v.  使...恐惧
+
++ persistent  adj. 坚持不断的, 持续不断的
+  + persist v. 坚持, 坚持不断
+  + per- 一直, 始终
+  + persistence
+
++ nightmare n. 噩梦
+
++ therapist n. 理疗师
+  + therapy n. 治疗
+  + theory  n. 理论
+
++ susceptible adj. 易受影响的
+  + be susceptible to   易于受到 ... 的影响
+  + be vulnerable to 脆弱的, 易于受到 ... 的影响
+
++ innermost adj. 最里面的
+  + foremosst adj. 最前面的
+  + outermost adj. 最外面的
+
++ visualize v. 想象 == envision == envisage
+  + -ize/-ise 使 ... (动词)
+  + visual adj.   视觉的
+  + vision n.     视觉
+  + visible adj.  可视的
