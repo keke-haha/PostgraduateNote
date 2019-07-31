@@ -656,4 +656,57 @@
   The method of scientific investigation is nothing but the expression of necessary mode of working of the human
   mind; it is simply the mode by which all phenomena are reasoned about and given precise and exact explanation.
 
+  + cut sentence
+    + The method of scientific investigation is nothing but the expression of necessary mode of working of the human mind;
+    + it is simply the mode by which all phenomena are reasoned about and given precise and exact explanation.
 
+  + unknown word
+    + investigation : n. （正式的）调查，研究;侦查;科学研究;学术研究;
+    + phenomena : (复数) n. 现象; (单数) phenomenon
+    + explanation : n. 解释;说明;辩解;（消除误会后）和解;
+
+  + detail
+    + nothing but : 此处的 but 应该翻译成 exact, 所以 nothing but 翻译成 "只是"
+
+  + homework translation  
+    科学研究的方法只有一个，那就是人们的观点通过必要的方式表达出来；这种方式只需要知道所有现象出现的原因并且给出
+    精准的解释说明。
+
+  + homework reference translation -- update July 30
+    科学研究的方法仅仅是人脑(human mind)工作必要模式的表达，它其实是一种对所有现象进行推理(are reasoned about)并且
+    给出精准和确切的解释所通过的方式。
+
+---
+
+#### day 15 -- July 30
+
++ original text  
+
+  I have excluded him because, while his accomplishments may contribute to the solution of moral problems,
+  he has not been charged with the task of approaching any but the factual aspects of those problems.
+
++ cut sentence
+  + I have excluded him
+  + while his accomplishments may contribute to the solution of moral problems
+  + because he has not been charged with the task of approaching any but the factual aspects of those problems
+
++ unknown word
+  + contribute : vt.& vi. 贡献出;捐赠（款项）;投稿（给杂志等）;出力;
+  + factual : adj. 事实的，真实的;根据事实的;确凿的;
+  + charge(钱，法，责，电) : 钱，充值；法，控诉；责，负责、主管；电，充电
+
++ detail
+  + while : 同时(做并列句) ; 尽管(让步状语从句)
+  + contribute to : 翻译成 : 有助于
+  + not ... any but : 双重否定
+
++ reference translation  
+  我把他排除在外是因为，尽管他的成就有助于解决道德问题，但是他只会承担研究解决这些问题的事实方面的任务。
+
++ homework  
+
+  On the whole such a conclusion can be drawn with a certain degree of confidence, but only if the child can
+  be assumed to have had the same attitude towards the test as the other with whom he is being compared, and
+  only if he was not punished by lack of relevant information which they possessed.
+
+  + cut sentence
