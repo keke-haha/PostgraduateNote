@@ -2,12 +2,13 @@
 
 ### 2004 text1
 
-stumbled
-interactive
-criteria
-promising
-expert
-implicit
++ stumbled
++ interactive
++ criteria
++ promising
++ expert
++ implicit
++ sake
 
 ---
 
@@ -244,3 +245,22 @@ implicit
   + visual adj.   视觉的
   + vision n.     视觉
   + visible adj.  可视的
+
+---
+
+#### 2004 text2
+
++ discrimination
++ alphabet
++ surnames
++ thumb
++ humiliation
++ literally
++ Zysmans
++ ill-treat
++ insidious
++ rot
++ illustrate
++ infant school
++ election
++ recipients

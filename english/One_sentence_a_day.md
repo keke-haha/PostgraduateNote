@@ -710,3 +710,51 @@
   only if he was not punished by lack of relevant information which they possessed.
 
   + cut sentence
+    + On the whole such a conclusion can be drawn with a certain degree of confidence
+    + but only if the child can be assumed to have had the same attitude towards the test as the other with whom he is being compared
+    + and only if he was not punished by lack of relevant information which they possessed
+
+  + unknown word
+    + possess : 
+  + my homework translation  
+    只有在这样的一个结论下才可以建立一个确定的自信评级，结论仅在假设相互比较的孩子们用相同的态度去对待
+    测试，且没人会因为缺少他人拥有的相关信息而受到惩罚。
+
+  + homework reference translation -- update July 31  
+    总体来说，只有假定这个孩子对待测试的态度和其他与他相比的孩子对待测试的态度是一样的，并且只有当他不会
+    因为缺乏别的孩子所拥有的知识而受到惩罚，我们才有一定的自信得出这样一个结论。
+
+---
+
+#### day 16 -- July 31
+
++ original text  
+
+  On the other hand, he did not accept as well founded the charge made by some of his critics that while he
+  was a good observer, he had no power of reasoning.
+
++ cut sentence  
+  + On the other hand
+  + he did not accept as well founded the charge
+  + made by some of his critics
+  + that while he was a good observer, he had no power of reasoning
+
++ detail
+  + he did not accept as well founded the charge
+    + 我认为他是一个好学生
+    + I regard him as a good student
+    + I regard him a good student
+    + I regard him as good
+    + I regard him good
+    + as + ... 是宾语补足语
+    + ** 这里用了个倒装结构 **
+    + he did not accept the charge as well founded
+
++ reference translation
+  在另一方面，一些评论家指出，尽管他善于观察，但却不具备推理能力。对待这样的指责，他无法接受，认为
+  其毫无证据。
+
++ homework  
+
+  I shall define him as individual who has elected as his primary dutyand pleasure in life the activity
+  if thinking in a Socratic (苏格拉底) way about moral problem.
