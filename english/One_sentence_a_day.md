@@ -756,5 +756,61 @@
 
 + homework  
 
-  I shall define him as individual who has elected as his primary dutyand pleasure in life the activity
-  if thinking in a Socratic (苏格拉底) way about moral problem.
+  I shall define him as an individual who has elected as his primary duty and pleasure in life the activity
+  of thinking in a Socratic (苏格拉底) way about moral problem.
+
+  + cut sentence
+    + I shall define him as a individual
+    + who has elected the activtity of thinking in a Socratic way about moral problem
+    + as his primary duty and pleasure in life
+
+  + my translation  
+    通过他日常生活中的主要的责和乐趣，我应该把他当成这样一种特别的人，他会以苏格拉底的方式去
+    思考精神道德的问题。
+
+  + homework reference translation -- update August 1st
+    我会把他定义成这样的人：他选择把用苏格拉底的方法思考道德问题的活动作为毕生的主要任务和乐趣。
+
+
+---
+
+#### day 17 -- August 1
+
++ original text  
+
+  For example, they do not compensate for gross soical inequality, and thus do not tell how able an
+  underprivileged youngster might have been had he grown up under more favourable circumstances.
+
++ cut sentence
+  + For example, they do not compensate for gross soical inequality
+  + and thus do not tell how able an underprivileged youngster might have been
+  + had he grown up under more favourable circumstances
+
++ unknown word
+  + gross : adj. 总的，全部的;粗俗的;显而易见的;恶劣的;
+  + compensate : vt. 补偿，赔偿;报酬;抵消;
+
++ detail
+  + 与过去相反的虚拟语气
+    + 如果昨天我早点到，那么我就可以欣赏这场音乐会了
+    + If I had arrived eariler yesterday, I would have enjoyed this concert.
+    + **Had I arrived eariler yesterday**, I would have enjoyed this concert.
+    + I would have enjoyed this concert **had I arrived eariler yesterday**.
+  + 介词提前的定语从句
+    + She is the girl. + I gave my money to the girl.
+    + She is the girl who I gave my money to. (这种写法错误，to必须提前)
+    + She is the girl to whom I gave my money.
+
++ reference translation  
+  
+  例如，测试并不能弥补明显的社会不公，因此他们不能说明一个物质条件较差的年轻人，如果在较好的
+  环境下成长的话，会有多大的才干。
+
++ homework  
+
+  You have all heard it repeated that men of science work by means of induction and deduction, that
+  by the help of these operations, they, in a sort of sence, manage to extract from Nature certain naturl laws,
+  and that out of these, by some special skill of their own, they build up their theories.
+
+
+---
