@@ -8,7 +8,7 @@
   Time was when biologists somewhat overworked the evidence that these creatures preserve the health of game
   by killing the physically weak, or that they prey only on "worthless" species.
 
-+ cut sentence  
++ cut sentences  
   Time was  
   biologists somewhat overworked the evidence  
   these creatures preserve the health of game by killing the physically weak  
@@ -47,7 +47,7 @@
   But we have at least drawn nearer the point of admitting that birds should continue survivals as a
   matter of intrinsic right, regradless of the presence or absence of economic advantage to us.
 
-+ cut sentence  
++ cut sentences  
   But we have at least drawn nearer the point  
   birds should continue survivals  
   admitting ... as a matter of intrinsic right  
@@ -91,7 +91,7 @@
   Scientist jumped to the rescue with some distinctly shaky evidence to the effect that insects would
   eat us up if birds failed to control them.
 
-+ cut sentence  
++ cut sentences  
   Scientists jumped to the rescue with some distinctly shaky evidence to the effect  
   insects would eat us up if birds failed to control them  
 
@@ -125,7 +125,7 @@
   In Europe, where forestry is ecologically more advanced, the non-commercial species are recognized
   as members of native forest community, to be preserved as such, within reason.
 
-+ cut sentence  
++ cut sentences  
   In Europe  
   where forestry is ecologically more advanced  
   the non-commercial species are recognized as members of native forest community  
@@ -166,7 +166,7 @@
   it ( a system of conservation ) tends to ignore, and thus eventually to eliminate, many elements in the land
   community that lack commerical value, but that are essential to its healthy functioning.
 
-+ cut sentence  
++ cut sentences  
   it is a system of conservation  
   it tends to ignore, and thus eventually to eliminate many elements in the land community  
   they are lack commerical value  
@@ -206,7 +206,7 @@
   Having endured a painful period of unsustainability in his own life made it clear to him that  
   sustainability-oriented values must be expressed though everyday action and choice.  
 
-+ cut sentence  
++ cut sentences  
   Having endured a painful period of unsustainability in his own life made it clear to him  
   sustainability-oriented values must be expressed though everyday action and choice  
 
@@ -241,7 +241,7 @@
   tracked through it, whereas Greenbergian universality predicts strong co-dependencies between particular types of
   word-order relations.  
 
-+ cut sentence  
++ cut sentences  
   Chomsky's grammer should show patterns of language change  
   patterns are independent of the family tree or the pathway tracked through it  
   Greenbergian university predicts strong co-dependencies between paticular types of word-order relations  
@@ -279,7 +279,7 @@
   To filter out what is unique from what is shared might enable us to understand how complex cultural behavior
   arose and what guides it in evolutionary or cognitive terms  
 
-+ cut sentence  
++ cut sentences  
   To filter out what is unique from what is shared might  
   enable us to understand  
   how complex cultural behavior arose  
@@ -318,7 +318,7 @@
   limited the opportunities of teenageers who are already questioning the heavy personal sacrifices involved  
   in climbing Japan's rigid social ladder to good schools and jobs
 
-+ cut sentence  
++ cut sentences  
   + the coming of age of the postwar baby boom and an entry of women into the male-dominated job market
   + have limited
   + the opportunities of teenagers
@@ -360,7 +360,7 @@
   cities where community and the extended family have been abandoned in favor of isolated, two-generation  
   households.
   
-  + cut sentence
+  + cut sentences
     + With economic gtowth has come centralization
     + full 76 percent of Japan's 119 million citizens
     + live in cities
@@ -386,7 +386,7 @@
   country as large as ours and where the economy is spread over so many states and involves so many international  
   corporations.  
 
-+ cut sentence
++ cut sentences
   + Besides, professional training is unlikely to produce the needed number of every kind of professional in a country  
     + professional training
     + is unlikely to produce
@@ -425,7 +425,7 @@
   There is, as Robert Rubin, the treasury secretary, says, a "disjunction" between the mass of business anecdote that point
   to a leap in productivity and the picture reflected by the statistics.
 
-  + cut sentence
+  + cut sentences
     + as the treasury secretary Robert Rubin says
     + There is a "disjunction" between 
     + the mass of business anecdote that point to a leap in productivity
@@ -454,7 +454,7 @@
   and who had no relation to the rest of the community except that of drawing dividends and occasionally attending a
   shareholder's meeting to dictate their orders to the management.
 
-+ cut sentence
++ cut sentences
   + Towns like Bournemouth and Eastbourne sprang to house large "comfortable" classes
   + who had retired on their incomes
   + and who had no relation to the rest of the community
@@ -488,7 +488,7 @@
   which provides equality but would perpetuate poverty and one at the other extreme which provides prosperity but
   would ignore poverty.
 
-  + cut sentence
+  + cut sentences
     + The challenge we both faces
     + is to avoid forcing people to make a hard choice
     + between a system at once extreme which provides equlity but would perpetuate poverty
@@ -517,7 +517,7 @@
   carry substantial weight – issued new guidelines for tort law stating that companies need not warn customers
   of obvious dangers or bombard them with a lengthy list of possible ones.
 
-+ cut sentence
++ cut sentences
   + At the same time, the American Law Institute
   + - a group of judges, lawyers, and academics hose recommendations carry substantial weight -
   + issued new guidelines for tort law
@@ -545,7 +545,7 @@
   by competent personnel during every stage, from prototype design study through manufacturing if the proposal
   is for “hardware”, or from initial exploratory study to final solutions if the proposal is for “software”.
 
-  + cut sentence
+  + cut sentences
     + One of the important purposes of the management proposal
     + is to assure the customer
     + that the work will be done by the competent personnel during every stage
@@ -576,7 +576,7 @@
   business to maximize profit and the desire of individuals to maxinize their incomes, that together determine
   what shall be produced and how resources are used to produce it.
 
-+ cut sentence
++ cut sentences
   + Thus, in the American economic system
   + it is the demand of individual consumers, coupled with the desire of business to maximize profit and the desire of individuals to maxinize their incomes
   + that together determine what shall be produced and how resources are used to produce it
@@ -605,7 +605,7 @@
     + capitalist : n. 资本家;资本主义者;<口>有钱人，财主;
     + potentialities : n. 可能力，潜能，潜力。可能性;潜势力;
 
-  + cut sentence
+  + cut sentences
     + I suggest transforming our social system form ... into
     + a bureaucratically managed industrialism
     + in which maximal production and consumption are ends in themselves
@@ -632,7 +632,7 @@
   Behaviorists suggest that the child who is raised in an environment where there are many stmuli which develop
   his or her capacity for appropriate respones will experience greater intellectual development.
 
-+ cut sentence
++ cut sentences
   + Behaviorists suggest that
   + the child ... will experience greater intellectual development
   + the child who is raised in an environment
@@ -656,7 +656,7 @@
   The method of scientific investigation is nothing but the expression of necessary mode of working of the human
   mind; it is simply the mode by which all phenomena are reasoned about and given precise and exact explanation.
 
-  + cut sentence
+  + cut sentences
     + The method of scientific investigation is nothing but the expression of necessary mode of working of the human mind;
     + it is simply the mode by which all phenomena are reasoned about and given precise and exact explanation.
 
@@ -685,7 +685,7 @@
   I have excluded him because, while his accomplishments may contribute to the solution of moral problems,
   he has not been charged with the task of approaching any but the factual aspects of those problems.
 
-+ cut sentence
++ cut sentences
   + I have excluded him
   + while his accomplishments may contribute to the solution of moral problems
   + because he has not been charged with the task of approaching any but the factual aspects of those problems
@@ -709,7 +709,7 @@
   be assumed to have had the same attitude towards the test as the other with whom he is being compared, and
   only if he was not punished by lack of relevant information which they possessed.
 
-  + cut sentence
+  + cut sentences
     + On the whole such a conclusion can be drawn with a certain degree of confidence
     + but only if the child can be assumed to have had the same attitude towards the test as the other with whom he is being compared
     + and only if he was not punished by lack of relevant information which they possessed
@@ -733,7 +733,7 @@
   On the other hand, he did not accept as well founded the charge made by some of his critics that while he
   was a good observer, he had no power of reasoning.
 
-+ cut sentence  
++ cut sentences  
   + On the other hand
   + he did not accept as well founded the charge
   + made by some of his critics
@@ -759,7 +759,7 @@
   I shall define him as an individual who has elected as his primary duty and pleasure in life the activity
   of thinking in a Socratic (苏格拉底) way about moral problem.
 
-  + cut sentence
+  + cut sentences
     + I shall define him as a individual
     + who has elected the activtity of thinking in a Socratic way about moral problem
     + as his primary duty and pleasure in life
@@ -781,7 +781,7 @@
   For example, they do not compensate for gross soical inequality, and thus do not tell how able an
   underprivileged youngster might have been had he grown up under more favourable circumstances.
 
-+ cut sentence
++ cut sentences
   + For example, they do not compensate for gross soical inequality
   + and thus do not tell how able an underprivileged youngster might have been
   + had he grown up under more favourable circumstances
@@ -809,8 +809,78 @@
 + homework  
 
   You have all heard it repeated that men of science work by means of induction and deduction, that
-  by the help of these operations, they, in a sort of sence, manage to extract from Nature certain naturl laws,
+  by the help of these operations, they, in a sort of sence, manage to extract from Nature certain natural laws,
   and that out of these, by some special skill of their own, they build up their theories.
+
+  + cut sentences
+    + You have all heard it repeated that men of science work by means of induction and deduction
+    + that they manage to extract certain natural laws from Nature by the help of these operations in a sort of sence
+    + and that out of these, they build up their theories by some special skill of their own
+
+  + unknown word
+    + induction and deduction : 归纳与演绎 (推理)
+    + in a sort of sense : 在某种程度上
+
+  + detail
+    + extract from Nature certain natural laws : 倒装句，原句为 extract certain natural laws from Nature
+
+  + my homework translation  
+    你总是听人重复道人类的科学研究工作就是思想上的归纳与演绎，科学家们在某种程度上通过这方法试图从自然界的一些自然规律
+    中做出总结提取，再利用他们自己的一特殊些方法形成他们的理论。
+
+  + homework reference translation -- update August 2  
+    你们都多次听说过：科学家们利用归纳法和演绎法进行工作的，他们用这些方法，在某种程度上说，力求从自然界找某些自然
+    规律，然后他们根据这些规律，用自己的非同一般的的本领，建立起他们的理论
+
++ summarize  
+
+  要注重对句子中的一些成分的翻译，不能省略；对于句子中的疑惑要多读几遍。加油！
+
+---
+
+#### day 18 -- August 2
+
++ original text  
+
+  Time was when biologists somewhat overworked the evidence that these creatures preserve the health of game
+  by killing the physically weak, or that they prey only on worthless species
+
++ cut sentences
+  + Time was when biologists somewhat overworked the evidence
+  + that these creatures preserve the health of game by killing the physically weak
+  + or that they prey only on worthless species
+
++ unknown word
+  + somewhat : adv. 稍微, 有点
+  + overwork : v. 过度工作; 这里翻译成 “滥用”, "过度利用" ...
+  + game : n. 游戏，运动;比赛，竞赛;诡计;猎物; 此处翻译成 "物种", "种群"
+
++ reference translation  
+
+  曾经，生物学家有点滥用这种证据：这些生物通过猎杀弱者来保存物种的健康，
+  或者它们只不过猎杀那些毫无意义的物种
+
++ homework  
+
+  He believes that this very difficult may have had the compensating advantages of forcing him to think long
+  and intently about every sentence and thus enabling him to detect errors in reasoning and in his own observation.
+
+  + cut sentences
+    + He believes that this very difficult may have had the compensating advantages
+    + of forcing him to think long and intently about every sentence
+    + and thus enabling him to detect errors in reasoning and in his own observation
+
+  + unknown word
+    + compensating : n. 补偿，补助，修正;
+
+  + my translation  
+
+  + homework reference translation -- update August 5  
 
 
 ---
+
+#### day 19 -- August 5
+
++ original text  
+  
