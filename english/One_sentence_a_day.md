@@ -862,25 +862,79 @@
 
 + homework  
 
-  He believes that this very difficult may have had the compensating advantages of forcing him to think long
+  He believes that this very difficulty may have had the compensating advantages of forcing him to think long
   and intently about every sentence and thus enabling him to detect errors in reasoning and in his own observation.
 
   + cut sentences
-    + He believes that this very difficult may have had the compensating advantages
+    + He believes that this very difficulty may have had the compensating advantages
     + of forcing him to think long and intently about every sentence
     + and thus enabling him to detect errors in reasoning and in his own observation
 
   + unknown word
     + compensating : n. 补偿，补助，修正;
+    + intently : adv. 专心地;专注地;热切地;热心地;
+    + compensating advantage : 取长补短
 
   + my translation  
+    他认为：这种可能十分困难的方法有助于强迫他长时间专注于思考每句话并使他能够通过推理和自身的观察发现其中的错误。
 
   + homework reference translation -- update August 5  
+    他认为：正是这个困难能迫使他长时间集中思考每个句子，因此使他在推理和自己的观察中发现错误，结果反而成为
+    了他的优势。
 
+  + conclusion  
+    讲义错了（difficult -> difficulty），而且词汇量还是不足，但是进步相当大，加油！
+    
 
 ---
 
 #### day 19 -- August 5
 
 + original text  
-  
+
+  His function is analogous to that of a judge, who must accept the obligation of revealing in as obvious a manner
+  as possible the course of reasoning which led him to his decision
+
++ cut sentences
+  + His function is analogous to that of a judge
+  + who must accept the obligation
+  + of revealing in as obvious a manner as possible the course of reasoning
+  + which led him to his decision
+
++ unknown word
+  + analogous : adj. 相似的，可比拟的;<生>同功的;模拟式;
+  + obligation : n. 义务，责任;证券，契约;债务;恩惠;
+  + reveal : vt. 显露;揭露;泄露;[神]启示;
+  + supplyment words
+    + entitlement : 授权
+    + right : 权力
+    + responsibility : 责任
+    + obligation : 义务
+    + privilege : 特权
+    + duty : 职责
+    + 方法 : way, method, means, manner, measure, approach
+  + course : n. 路程; 课程; 进程
+
++ detail
+  + in as obvious a manner as possible: in a manner as obvious as possible
+
++ reference translation  
+
+  他的功能类似于一个法官，法官必须接受义务，该义务是用一种尽可能明显的方法阐释导致他做出正确的决定推理的过程。
+
++ homework  
+
+  But the idea that the journalist must understand the law more profoundly than an ordinary citizen rests
+  on an understanding of the established conventions and special responsibilities of the news media.
+
+  + cut sentences
+
+  + unknown words
+
+  + my homework translation  
+
+  + homework reference translation -- update August 6  
+
+
+---
+
