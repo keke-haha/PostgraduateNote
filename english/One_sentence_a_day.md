@@ -928,13 +928,68 @@
   on an understanding of the established conventions and special responsibilities of the news media.
 
   + cut sentences
+    + But the idea that
+    + the journalist must understand the law more profoundly than an ordinary citizen
+    + restson an understanding of the established conventions
+    + and special responsibilities of the news media.
 
   + unknown words
+    + journalist : n. 新闻工作者，新闻记者;记日志者;
+    + established : adj. 已建立的;已设立的;已制定的;确定的;
+    + responsibility : n. 责任;职责;责任感，责任心;负责任;
+    + convention : 这里翻译为"习俗、惯例"; n. 会议;全体与会者;国际公约;惯例，习俗，规矩;
+
+  + detail
+    + rest on : 依赖于
 
   + my homework translation  
+    但是想法是新闻记者对于法律的理解必须比一个普通的公民更加深刻，这依赖于对于既定传统的理解与及新闻媒体的
+    特殊职责。
+
+  + correct cut sentences -- update August 6  
+    + But the idea that
+    + the journalist must understand the law more profoundly than an ordinary citizen
+    + restson an understanding
+    + of the established conventions and special responsibilities
+    + of the news media.
 
   + homework reference translation -- update August 6  
-
+    但是新闻记者对于法律的理解必须比一个普通的公民更加深刻的观点，主要来自于对新闻媒体既定传统和
+    特殊责任的理解。
 
 ---
 
+
+#### day 20 -- August 6
+
++ original text  
+
+  Probably there is not one here who has not in the course of the day had occasion to set in motion
+  a complex train of reasoning, of the very same kid, though differing in degree, as that which a
+  scientific man goes through in tracing the cause of nature phenomenon.
+
++ cut sentence
+  + Probably there is not one here
+  + who has not had occasion to set in motion a complex train of reasoning + in the course of the day
+  + of the very same kid as that
+  + which a scientific man goes through in tracing the cause of nature phenomenon.
+  + though differing in degree
+
++ detail
+  + have occasion to do sth. : 有机会做某事
+  + set ... in motion ( motion 运动, 动 ): 做... / 进行 ... 
+  + a train of ... (train v. 训练; n. 火车) : 一系列的, 一连串的
+  + the course of the day : 一整天
+  + the same ... as ... : 与 ... 相同
+  + very + n. : 表示强调, 译为“正是”
+
++ reference translation  
+
+  大概这里不会有人一整天都没有机会进行一连串复杂的思考活动，这些思考活动与科学家在探索自然现象成因时所经历的
+  思考活动，尽管复杂程度不同，但在类型上是完全一样的。
+
++ homework  
+
+
+
+---
