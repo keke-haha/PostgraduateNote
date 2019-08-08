@@ -990,6 +990,77 @@
 
 + homework  
 
+  Social science is that branch of intellectual enquiry which seeks to study humans and their endeavors
+  in the same reasoned, orderly, systematic, and dispassioned manner that natural scientists use for the
+  study of natural phenomena.
+
+  + cut sentences
+    + Social science is that branch of
+    + intellectual enquiry which seeks to study humans
+    + and their endeavors in the same reasoned, orderly, systematic, and dispassioned manner
+    + that natural scientists use for the study of natural phenomena.
+
+  + unknown words
+    + enquiry : n. 询问;调查;查询;问讯处;
+    + endeavor : vt.& vi. 尝试，试图;尽力，竭力; n. 努力，奋斗; 活动
+    + systematic : adj. 有系统的，有规则的;有条不紊的;有步骤的;一贯的，惯常的;
+    + dispassioned : adj. 冷静的, 不激情的
+
+  + my homework translation  
+    社会科学是那些希望研究人类的知识分子的调查的分支，这些知识分子尝试在相同的原因、顺序、规则和客观条件下进行
+    调查，就像自然科学家研究自然现象那样。
+
+  + crrect cut sentences
+    + Social science is that branch of intellectual enquiry
+    + which seeks to study humans and their endeavors
+    + in the same reasoned, orderly, systematic, and dispassioned manner
+    + that natural scientists use for the study of natural phenomena.
+
+  + homework reference translation -- update August 7
+    社会科学是知识探索的一个分支，它像自然科学家研究自然现象那样，用合理的、有序的、系统的和冷静的方式研究
+    人类及其行为。
+
++ conclusion  
+  今天惨败，还需加油！！  
+  每天都要背单词，单词是基础！！
+
+---
+
+#### day 21 -- August 7
+
++ original text  
+  It is not that the scales in the one case, and the balance in the other, differ in the principles of their
+  construction or manner of working; but that the latter is much finer apparatus and of course much more accurate
+  in its measurement than the former.
+
++ cut sentences
+  + It is not that
+  + the scales in the one case, and the balance in the other
+  + differ in the principles of their construction or manner of working
+  + but that the latter is much finer apparatus and of course much more accurate in its measurement than the former.
+
++ unknown word
+  + apparatus : n. 仪器，器械;机器;机构，机关;器官;
+  + fine : adj. 好的，上等的;纤细的，精致的;健康的;晴朗的;
+  + scales ( 区别于 scale ): n. 磅秤
+
++ reference translation  
+  并非前一种情况的磅秤和后一者情况的天平在结构原理或工作方式有差异，而是后者是更精密的设备，显然在测试上要比
+  前者更精确。
+
++ homework  
+  The role of natural selection in evolution was formulated only a little more than a hundred years ago, and
+  the selective role of the environment in shaping and maintaining the behavior of the individual is only beginning
+  to be recognized and studied.
 
 
 ---
+
+#### day 22 -- August 8
+
++ original text  
+  The Lord Chancellor said introduction of Human Rights Bill, which makes the European Convention on Human Rights
+  legally binding in Britain, laid down that everybody was entitled to privacy and that public figures could go to
+  court to protect themselves and their families.
+
++ cut sentences
