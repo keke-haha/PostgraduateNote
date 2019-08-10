@@ -1053,6 +1053,34 @@
   the selective role of the environment in shaping and maintaining the behavior of the individual is only beginning
   to be recognized and studied.
 
+  + cut sentences
+    + The role of natural selection in evolution was formulated only a little more than a hundred years ago
+    + and the selective role
+    + of the environment in shaping and maintaining the behavior
+    + of the individual
+    + is only beginning to be recognized and studied
+
+  + unknown word
+    + formulate : vt. 制定; 制订; 规定; 提出; 确切地阐释
+    + maintaining : v. 保持( maintain的现在分词 );保养;坚持;保卫;
+    + individual : n. 行为;态度;（机器等的）运转状态;（事物的）反应;
+
+  + my translation  
+    自然选择在生物进化中发挥着作用的观点仅在一百多年前提出，独特的行为保持着和环境的形成在进化中起到的选择作用
+    才开始被认识和研究
+
+  + cerrect cut sentences
+    + The role of natural selection in evolution was formulated only a little more than a hundred years ago
+    + and the selective role of the environment in 
+    + shaping and maintaining the behavior of the individual
+    + is only beginning to be recognized and studied
+
+  + homework reference translation -- update August 8th  
+    自然选择在生物进化中发挥着作用的观点仅在一百多年前才得以阐明，而环境在塑造和保持个体的行为的过程中所起的
+    选择作用则刚刚开始被认识和研究。
+
++ conclusion  
+  每天都进步，但是还需努力！
 
 ---
 
@@ -1064,3 +1092,42 @@
   court to protect themselves and their families.
 
 + cut sentences
+  + The Lord Chancellor said introduction of Human Rights Bill laid down that everybody was entitled to privacy
+  + which makes the European Convention on Human Rights legally binding in Britain
+  + and that public figures could go to court to protect themselves and their families
+
++ unknown word
+  + binding : n. 捆绑;（衣服等的）镶边;粘合剂;书籍的封面;adj. 具有约束力的
+  + Lord Chancellor : 大法官
+  + public figure : 公众人物
+    + figure : n. 数字;算术;人物;身材;
+  + lay down : 规定, 制定
+
++ reference translation  
+  大法官说《人权法案》的引入使得《欧洲人权公约》在英国具有法律约束力。《人权法案》规定每个人都享有
+  个人隐私权，而且公众人物可以通过起诉保护自己和家人的隐私。
+
++ homework  
+  Because they are adjusting to new bodies and a whole host of new intellectualand emotional challenges,
+  teenagers are especially self- conscious and need the confidence that comes from achieving success and
+  knowing that their accomplishments are admired by others.
+
+  + cut sentences
+
+  + unknown word
+
+  + my homework translation
+
+  + homework reference translation -- update August 9
+
++ conclusion  
+  
+
+---
+
+#### day 23 -- August 9
+
++ original text  
+  The change met the technical requirements of the new age by engaging a large professional element and
+  prevented the decline in efficiency that so commonly spoiled the fortunes of family firms in the second
+  and third generation after the energetic founders.
