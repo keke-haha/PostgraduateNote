@@ -1108,20 +1108,30 @@
   个人隐私权，而且公众人物可以通过起诉保护自己和家人的隐私。
 
 + homework  
-  Because they are adjusting to new bodies and a whole host of new intellectualand emotional challenges,
-  teenagers are especially self- conscious and need the confidence that comes from achieving success and
+  Because they are adjusting to new bodies and a whole host of new intellectual and emotional challenges,
+  teenagers are especially self-conscious and need the confidence that comes from achieving success and
   knowing that their accomplishments are admired by others.
 
   + cut sentences
+    + Because they are adjusting to new bodies and a whole host of new intellectual and emotional challenges,
+    + teenagers are especially self-conscious and need the confidence
+    + that comes from achieving success
+    + and knowing that their accomplishments are admired by others
 
   + unknown word
+    + host : n. 许多, 大群
+    + body : 
 
   + my homework translation
+    因为年轻人正在适应他们新的身体和一大推新的智力和心理的挑战，所以他们特别有自尊心，需要通过实现成功与及获得
+    他人对自己的成就的赞赏来获取自信。
 
-  + homework reference translation -- update August 9
+  + homework reference translation -- update August 9  
+    因为他们正在适应他们新的身体和众多新的智力和情感方面的挑战，所以他们的自我意识特别强烈，并且需要自信。
+    该自信来源于取得的成功，来自知道知道自己的成绩受人羡慕。
 
 + conclusion  
-  
+  加油！！！
 
 ---
 
@@ -1131,3 +1141,56 @@
   The change met the technical requirements of the new age by engaging a large professional element and
   prevented the decline in efficiency that so commonly spoiled the fortunes of family firms in the second
   and third generation after the energetic founders.
+
++ cut sentences
+  + The change met the technical requirements of the new age by engaging a large professional element
+  + and prevented the decline in efficiency
+  + that so commonly spoiled the fortunes of family firms in the second and third generation 
+  + after the energetic founders
+
++ unknown word
+  + spoil : v. 破坏, 毁坏, 损坏;
+  + energetic : adj. 精力充沛的，充满活力的;精力旺盛的，精神饱满的;（措施等）积极的，有力的;雄健;
+  + founder : n. 创始人;
+  + meet : vt.& vi. 满足;相遇;相识;开会;接触（某物）; 这里翻译成 "满足"
+
++ reference translation
+  这种变革通过吸引大量专业人员来满足新时代的技术要求, 并阻止了效率的降低，这种效率的降低使得很多家族企业
+  在那些精力充沛的创业者之后的第二代、第三代手中破产倒闭。
+
++ homework  
+  Such large, impersonal manipulation of capital and industry greatly increased the numbers and importance
+  of shareholders as a class, an element in national life representing irreponsible wealth detached from the
+  land and the duties of the landowners; and almost equally detached from the responsible management of
+  business.
+
+  + cut sentences
+
+  + unknown word
+
+  + my homework translation
+
+  + homework reference translation -- update August 12  
+
++ conclusion
+
+---
+
+#### day 24 -- August 12
+
++ original text  
+  During the discussion of rock singing verses at last month's stockholder's meeting, Levin asserted that
+  "music is not the cause of society's ills" and even cited his son, a teacher in the Bronx, New York, who
+  rap to communicate with students.
+
++ cut sentences
+
++ unknown word
+
++ reference translation
+
++ homework
+
++ conclusion
+
+---
