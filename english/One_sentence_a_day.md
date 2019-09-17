@@ -1170,13 +1170,13 @@
 
   + my homework translation
 
-  + homework reference translation -- update August 12  
+  + homework reference translation -- update September 1  
 
 + conclusion
 
 ---
 
-#### day 24 -- August 12
+#### day 24 -- September 1
 
 + original text  
   During the discussion of rock singing verses at last month's stockholder's meeting, Levin asserted that
